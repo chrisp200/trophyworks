@@ -1,0 +1,54 @@
+/* line 3, ../../sass/partials/homepage.scss */
+.title h1 {
+  font-size: 30px;
+  font-family: 'Arvo', serif;
+  letter-spacing: .025em;
+  font-weight: 600;
+  color: #000;
+  text-shadow: 3px 3px 0px #FFF;
+  filter: dropshadow(color=white, offx=3, offy=3);
+}
+
+/* line 14, ../../sass/partials/homepage.scss */
+.excerpt {
+  font-family: 'Tauri', sans-serif;
+  font-size: 24px;
+  color: #383737;
+  text-shadow: 2px -2px 1px white;
+  filter: dropshadow(color=white, offx=2, offy=-2);
+}
+
+/* line 25, ../../sass/partials/homepage.scss */
+.body-content {
+  font-family: Helvetica, arial, sans-serif;
+  font-size: 16px;
+  line-height: 20px;
+}
+
+/* line 32, ../../sass/partials/homepage.scss */
+.f-left {
+  float: left;
+  display: inline-block;
+  width: 45%;
+  margin-left: 3.5%;
+}
+
+/* line 39, ../../sass/partials/homepage.scss */
+.f-left:first-child {
+  margin-left: 0px;
+}
+
+/* line 43, ../../sass/partials/homepage.scss */
+.txt-right {
+  text-align: right;
+}
+
+/* line 46, ../../sass/partials/homepage.scss */
+.two-col {
+  -moz-column-count: 2;
+  -moz-column-gap: 20px;
+  -webkit-column-count: 2;
+  -webkit-column-gap: 20px;
+  column-count: 2;
+  column-gap: 20px;
+}

@@ -1,0 +1,85 @@
+/*
+Syntax error: File to import not found or unreadable: ../fonts.scss.
+              Load paths:
+                /Users/nathanmccartney/Desktop/Dropbox/Trophy Works/wordpress/wp-content/themes/html5boilerplatetheme/sass
+                /Users/nathanmccartney/Desktop/Dropbox/compass.app/Contents/Resources/ruby/compass_0.12/compass-0.12.2/frameworks/blueprint/stylesheets
+                /Users/nathanmccartney/Desktop/Dropbox/compass.app/Contents/Resources/ruby/compass_0.12/compass-0.12.2/frameworks/compass/stylesheets
+                /Users/nathanmccartney/Desktop/Dropbox/compass.app/Contents/Resources/ruby/compass_extensions/compass-960-plugin-f4bfe8555a7d2cae09bc/stylesheets
+                /Users/nathanmccartney/Desktop/Dropbox/compass.app/Contents/Resources/ruby/compass_extensions/heygrady-compass-html5-boilerplate-4cc8815/stylesheets
+                /Users/nathanmccartney/Desktop/Dropbox/compass.app/Contents/Resources/ruby/compass_extensions/compass-h5bp/stylesheets
+                /Users/nathanmccartney/Desktop/Dropbox/compass.app/Contents/Resources/ruby/compass_extensions/thomas-mcdonald-bootstrap-sass-831f25b/vendor/assets/stylesheets
+                /Users/nathanmccartney/Desktop/Dropbox/compass.app/Contents/Resources/ruby/compass_extensions/susy-1.0/sass
+                /Users/nathanmccartney/Desktop/Dropbox/compass.app/Contents/Resources/ruby/compass_common/sassy-math-1.2/stylesheets
+                /Users/nathanmccartney/Desktop/Dropbox/compass.app/Contents/Resources/ruby/compass_common/modular-scale-1.0.2/stylesheets
+                /Users/nathanmccartney/Desktop/Dropbox/compass.app/Contents/Resources/ruby/compass_extensions/zurb-foundation-3.0.9/scss
+                Compass::SpriteImporter
+        on line 1 of /Users/nathanmccartney/Desktop/Dropbox/Trophy Works/wordpress/wp-content/themes/html5boilerplatetheme/sass/partials/basic.scss
+
+1: /Users/nathanmccartney/Desktop/Dropbox/Trophy Works/wordpress/wp-content/themes/html5boilerplatetheme/sass/partials/basic.scss
+
+Backtrace:
+/Users/nathanmccartney/Desktop/Dropbox/Trophy Works/wordpress/wp-content/themes/html5boilerplatetheme/sass/partials/basic.scss:1
+/Users/nathanmccartney/Desktop/Dropbox/compass.app/Contents/Resources/ruby/compass_common/sass-3.2.1/lib/sass/tree/import_node.rb:64:in `import'
+/Users/nathanmccartney/Desktop/Dropbox/compass.app/Contents/Resources/ruby/compass_common/sass-3.2.1/lib/sass/tree/import_node.rb:62:in `import'
+/Users/nathanmccartney/Desktop/Dropbox/compass.app/Contents/Resources/ruby/compass_common/sass-3.2.1/lib/sass/tree/import_node.rb:25:in `imported_file'
+/Users/nathanmccartney/Desktop/Dropbox/compass.app/Contents/Resources/ruby/compass_common/sass-3.2.1/lib/sass/tree/visitors/perform.rb:227:in `visit_import'
+/Users/nathanmccartney/Desktop/Dropbox/compass.app/Contents/Resources/ruby/compass_common/sass-3.2.1/lib/sass/tree/visitors/perform.rb:225:in `visit_import'
+org/jruby/RubyKernel.java:2080:in `send'
+/Users/nathanmccartney/Desktop/Dropbox/compass.app/Contents/Resources/ruby/compass_common/sass-3.2.1/lib/sass/tree/visitors/base.rb:37:in `visit'
+/Users/nathanmccartney/Desktop/Dropbox/compass.app/Contents/Resources/ruby/compass_common/sass-3.2.1/lib/sass/tree/visitors/perform.rb:98:in `visit'
+/Users/nathanmccartney/Desktop/Dropbox/compass.app/Contents/Resources/ruby/compass_common/sass-3.2.1/lib/sass/tree/visitors/base.rb:53:in `visit_children'
+org/jruby/RubyArray.java:2331:in `collect'
+/Users/nathanmccartney/Desktop/Dropbox/compass.app/Contents/Resources/ruby/compass_common/sass-3.2.1/lib/sass/tree/visitors/base.rb:53:in `visit_children'
+/Users/nathanmccartney/Desktop/Dropbox/compass.app/Contents/Resources/ruby/compass_common/sass-3.2.1/lib/sass/tree/visitors/perform.rb:107:in `visit_children'
+/Users/nathanmccartney/Desktop/Dropbox/compass.app/Contents/Resources/ruby/compass_common/sass-3.2.1/lib/sass/tree/visitors/perform.rb:119:in `with_environment'
+/Users/nathanmccartney/Desktop/Dropbox/compass.app/Contents/Resources/ruby/compass_common/sass-3.2.1/lib/sass/tree/visitors/perform.rb:106:in `visit_children'
+/Users/nathanmccartney/Desktop/Dropbox/compass.app/Contents/Resources/ruby/compass_common/sass-3.2.1/lib/sass/tree/visitors/base.rb:37:in `visit'
+/Users/nathanmccartney/Desktop/Dropbox/compass.app/Contents/Resources/ruby/compass_common/sass-3.2.1/lib/sass/tree/visitors/perform.rb:126:in `visit_root'
+org/jruby/RubyKernel.java:2080:in `send'
+/Users/nathanmccartney/Desktop/Dropbox/compass.app/Contents/Resources/ruby/compass_common/sass-3.2.1/lib/sass/tree/visitors/base.rb:37:in `visit'
+/Users/nathanmccartney/Desktop/Dropbox/compass.app/Contents/Resources/ruby/compass_common/sass-3.2.1/lib/sass/tree/visitors/perform.rb:98:in `visit'
+org/jruby/RubyKernel.java:2080:in `send'
+/Users/nathanmccartney/Desktop/Dropbox/compass.app/Contents/Resources/ruby/compass_common/sass-3.2.1/lib/sass/tree/visitors/perform.rb:7:in `visit'
+/Users/nathanmccartney/Desktop/Dropbox/compass.app/Contents/Resources/ruby/compass_common/sass-3.2.1/lib/sass/tree/root_node.rb:20:in `render'
+/Users/nathanmccartney/Desktop/Dropbox/compass.app/Contents/Resources/ruby/compass_common/sass-3.2.1/lib/sass/engine.rb:315:in `_render'
+/Users/nathanmccartney/Desktop/Dropbox/compass.app/Contents/Resources/ruby/compass_common/sass-3.2.1/lib/sass/engine.rb:262:in `render'
+src/compass_patch.rb:124:in `compile'
+/Users/nathanmccartney/Desktop/Dropbox/compass.app/Contents/Resources/ruby/compass_0.12/compass-0.12.2/lib/compass/compiler.rb:126:in `timed'
+src/compass_patch.rb:123:in `compile'
+/Users/nathanmccartney/Desktop/Dropbox/compass.app/Contents/Resources/ruby/compass_0.12/compass-0.12.2/lib/compass/logger.rb:45:in `red'
+src/compass_patch.rb:122:in `compile'
+/Users/nathanmccartney/Desktop/Dropbox/compass.app/Contents/Resources/ruby/compass_0.12/compass-0.12.2/lib/compass/compiler.rb:118:in `compile_if_required'
+/Users/nathanmccartney/Desktop/Dropbox/compass.app/Contents/Resources/ruby/compass_0.12/compass-0.12.2/lib/compass/compiler.rb:103:in `run'
+org/jruby/RubyArray.java:1615:in `each'
+/Users/nathanmccartney/Desktop/Dropbox/compass.app/Contents/Resources/ruby/compass_0.12/compass-0.12.2/lib/compass/compiler.rb:101:in `run'
+/Users/nathanmccartney/Desktop/Dropbox/compass.app/Contents/Resources/ruby/compass_0.12/compass-0.12.2/lib/compass/compiler.rb:126:in `timed'
+/Users/nathanmccartney/Desktop/Dropbox/compass.app/Contents/Resources/ruby/compass_0.12/compass-0.12.2/lib/compass/compiler.rb:100:in `run'
+/Users/nathanmccartney/Desktop/Dropbox/compass.app/Contents/Resources/ruby/compass_0.12/compass-0.12.2/lib/compass/commands/watch_project.rb:147:in `recompile'
+org/jruby/RubyMethod.java:133:in `call'
+org/jruby/RubyProc.java:270:in `call'
+org/jruby/RubyProc.java:220:in `call'
+/Users/nathanmccartney/Desktop/Dropbox/compass.app/Contents/Resources/ruby/jruby/fssm-0.2.9-tka-patched/lib/fssm/path.rb:73:in `run_callback'
+/Users/nathanmccartney/Desktop/Dropbox/compass.app/Contents/Resources/ruby/jruby/fssm-0.2.9-tka-patched/lib/fssm/path.rb:55:in `callback_action'
+/Users/nathanmccartney/Desktop/Dropbox/compass.app/Contents/Resources/ruby/jruby/fssm-0.2.9-tka-patched/lib/fssm/path.rb:31:in `create'
+/Users/nathanmccartney/Desktop/Dropbox/compass.app/Contents/Resources/ruby/jruby/fssm-0.2.9-tka-patched/lib/fssm/state/directory.rb:26:in `created'
+org/jruby/RubyArray.java:1615:in `each'
+/Users/nathanmccartney/Desktop/Dropbox/compass.app/Contents/Resources/ruby/jruby/fssm-0.2.9-tka-patched/lib/fssm/state/directory.rb:25:in `created'
+/Users/nathanmccartney/Desktop/Dropbox/compass.app/Contents/Resources/ruby/jruby/fssm-0.2.9-tka-patched/lib/fssm/state/directory.rb:17:in `refresh'
+/Users/nathanmccartney/Desktop/Dropbox/compass.app/Contents/Resources/ruby/jruby/fssm-0.2.9-tka-patched/lib/fssm/backends/polling.rb:17:in `run'
+org/jruby/RubyArray.java:1615:in `each'
+/Users/nathanmccartney/Desktop/Dropbox/compass.app/Contents/Resources/ruby/jruby/fssm-0.2.9-tka-patched/lib/fssm/backends/polling.rb:17:in `run'
+org/jruby/RubyKernel.java:1410:in `loop'
+/Users/nathanmccartney/Desktop/Dropbox/compass.app/Contents/Resources/ruby/jruby/fssm-0.2.9-tka-patched/lib/fssm/backends/polling.rb:15:in `run'
+/Users/nathanmccartney/Desktop/Dropbox/compass.app/Contents/Resources/ruby/jruby/fssm-0.2.9-tka-patched/lib/fssm/monitor.rb:26:in `run'
+/Users/nathanmccartney/Desktop/Dropbox/compass.app/Contents/Resources/ruby/jruby/fssm-0.2.9-tka-patched/lib/fssm.rb:70:in `monitor'
+src/compass_patch.rb:22:in `perform'
+/Users/nathanmccartney/Desktop/Dropbox/compass.app/Contents/Resources/ruby/compass_0.12/compass-0.12.2/lib/compass/commands/base.rb:18:in `execute'
+/Users/nathanmccartney/Desktop/Dropbox/compass.app/Contents/Resources/ruby/compass_0.12/compass-0.12.2/lib/compass/commands/project_base.rb:19:in `execute'
+src/ui/tray.rb:408:in `watch'
+org/jruby/RubyProc.java:270:in `call'
+org/jruby/RubyProc.java:224:in `call'
+*/
+body:before {
+  white-space: pre;
+  font-family: monospace;
+  content: "Syntax error: File to import not found or unreadable: ../fonts.scss.\A               Load paths:\A                 /Users/nathanmccartney/Desktop/Dropbox/Trophy Works/wordpress/wp-content/themes/html5boilerplatetheme/sass\A                 /Users/nathanmccartney/Desktop/Dropbox/compass.app/Contents/Resources/ruby/compass_0.12/compass-0.12.2/frameworks/blueprint/stylesheets\A                 /Users/nathanmccartney/Desktop/Dropbox/compass.app/Contents/Resources/ruby/compass_0.12/compass-0.12.2/frameworks/compass/stylesheets\A                 /Users/nathanmccartney/Desktop/Dropbox/compass.app/Contents/Resources/ruby/compass_extensions/compass-960-plugin-f4bfe8555a7d2cae09bc/stylesheets\A                 /Users/nathanmccartney/Desktop/Dropbox/compass.app/Contents/Resources/ruby/compass_extensions/heygrady-compass-html5-boilerplate-4cc8815/stylesheets\A                 /Users/nathanmccartney/Desktop/Dropbox/compass.app/Contents/Resources/ruby/compass_extensions/compass-h5bp/stylesheets\A                 /Users/nathanmccartney/Desktop/Dropbox/compass.app/Contents/Resources/ruby/compass_extensions/thomas-mcdonald-bootstrap-sass-831f25b/vendor/assets/stylesheets\A                 /Users/nathanmccartney/Desktop/Dropbox/compass.app/Contents/Resources/ruby/compass_extensions/susy-1.0/sass\A                 /Users/nathanmccartney/Desktop/Dropbox/compass.app/Contents/Resources/ruby/compass_common/sassy-math-1.2/stylesheets\A                 /Users/nathanmccartney/Desktop/Dropbox/compass.app/Contents/Resources/ruby/compass_common/modular-scale-1.0.2/stylesheets\A                 /Users/nathanmccartney/Desktop/Dropbox/compass.app/Contents/Resources/ruby/compass_extensions/zurb-foundation-3.0.9/scss\A                 Compass::SpriteImporter\A         on line 1 of /Users/nathanmccartney/Desktop/Dropbox/Trophy Works/wordpress/wp-content/themes/html5boilerplatetheme/sass/partials/basic.scss\A \A 1: /Users/nathanmccartney/Desktop/Dropbox/Trophy Works/wordpress/wp-content/themes/html5boilerplatetheme/sass/partials/basic.scss"; }

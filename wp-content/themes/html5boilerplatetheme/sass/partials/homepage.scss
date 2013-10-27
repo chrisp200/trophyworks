@@ -1,0 +1,53 @@
+
+.title{
+  h1{
+    font-size:30px;
+    font-family: 'Arvo', serif;
+    letter-spacing: .025em;
+    font-weight:600;
+    color: #000;
+    text-shadow: 3px 3px 0px #FFF;
+    filter: dropshadow(color=#FFF, offx=3, offy=3);
+  }
+}
+
+.excerpt{
+  
+  font-family: 'Tauri', sans-serif;
+  font-size:24px;
+
+  color:#383737;
+
+  text-shadow: 2px -2px 1px #FFF;
+  filter: dropshadow(color=#FFF, offx=2, offy=-2);
+}
+
+.body-content{
+  font-family: Helvetica, arial, sans-serif;
+  //font-family: Georgia, Times, serif;
+  font-size:16px;
+  line-height:20px;
+}
+
+.f-left{
+  float:left;
+  display:inline-block;
+  width:45%;
+  margin-left:3.5%;
+
+}
+.f-left:first-child{
+  margin-left:0px;
+  
+}
+.txt-right{
+  text-align:right;
+}
+.two-col{
+  -moz-column-count: 2;
+  -moz-column-gap: 20px;
+  -webkit-column-count: 2;
+  -webkit-column-gap: 20px;
+  column-count: 2;
+  column-gap: 20px;
+}

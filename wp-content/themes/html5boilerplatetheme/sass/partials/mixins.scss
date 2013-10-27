@@ -1,0 +1,42 @@
+
+@import "compass/css3";
+@import 'http://fonts.googleapis.com/css?family=Bree+Serif';
+
+// METHODS
+
+@mixin shadow($horz:1px,$vert:1px,$blurRadius:3px,$spread:2px,$opacity:0.5,$shortHand:false){
+  -webkit-box-shadow:  $horz $vert $blurRadius $spread rgba(0, 0, 0, 0.5);
+  box-shadow:  $horz $vert $blurRadius $spread rgba(0, 0, 0,$opacity);
+}
+
+@mixin textShadow($horz:1px,$vert:1px,$blurRadius:3px,$opacity:0.5,$shortHand:false){
+  text-shadow: $horz $vert 10px rgba(0, 0, 0,$opacity) ;
+  filter: dropshadow(color=#000, offx=$horz, offy=$vert, $opacity);
+}
+
+@mixin radius($radius:10) {
+  -moz-border-radius: 	$radius;
+  -webkit-border-radius: 	$radius;
+  -o-border-radius: 		$radius;
+  border-radius: 			$radius;
+}
+
+@mixin column($number:2,$gap:20px){
+  -moz-column-count: $number;
+  -moz-column-gap: $gap;
+  -webkit-column-count: $number;
+  -webkit-column-gap: $gap;
+  column-count: $number;
+  column-gap: $gap;
+}
+
+@mixin trans($prop:all,$time:400ms,$func:ease-out,$shorthand:false) {
+
+  -webkit-transition: $prop $time $func;
+  -moz-transition: $prop $time $func;
+  -ms-transition: $prop $time $func;
+  -o-transition: $prop $time $func;
+  transition: $prop $time $func;
+  
+}
+

@@ -1,0 +1,606 @@
+2013-03-20 12:12:33 overwrite stylesheets/style.css 
+2013-03-20 12:14:18 overwrite stylesheets/style.css 
+2013-03-20 12:15:21 overwrite stylesheets/style.css 
+2013-03-20 12:15:29 identical stylesheets/style.css 
+2013-03-20 12:25:03    create stylesheets/partials/trophybuilder.css 
+2013-03-20 12:25:47 overwrite stylesheets/style.css 
+2013-03-20 12:25:50 overwrite stylesheets/partials/trophybuilder.css 
+2013-03-20 12:26:25 overwrite stylesheets/style.css 
+2013-03-20 12:27:45 overwrite stylesheets/style.css 
+2013-03-20 12:28:38     error sass/style.scss (Line 36 of sass/partials/_page.scss: Invalid CSS after "/*": expected /\//, was "#header{")
+2013-03-20 12:28:39 overwrite stylesheets/style.css 
+2013-03-20 12:28:46 overwrite stylesheets/style.css 
+2013-03-20 12:30:16 identical stylesheets/style.css 
+2013-03-20 12:31:20 identical stylesheets/style.css 
+2013-03-20 12:31:44 identical stylesheets/style.css 
+2013-03-20 12:31:52 overwrite stylesheets/style.css 
+2013-03-20 12:32:13 overwrite stylesheets/style.css 
+2013-03-20 12:33:53 overwrite stylesheets/style.css 
+2013-03-20 12:35:47 overwrite stylesheets/style.css 
+2013-03-20 12:35:58 overwrite stylesheets/style.css 
+2013-03-20 14:10:53 overwrite stylesheets/style.css 
+2013-03-20 14:11:10 overwrite stylesheets/style.css 
+2013-03-20 14:13:52 overwrite stylesheets/style.css 
+2013-03-20 14:14:04 overwrite stylesheets/style.css 
+2013-03-20 14:14:21 overwrite stylesheets/style.css 
+2013-03-20 14:14:49 overwrite stylesheets/style.css 
+2013-03-20 14:14:57 overwrite stylesheets/style.css 
+2013-03-20 14:16:01 overwrite stylesheets/style.css 
+2013-03-20 15:07:41 overwrite stylesheets/style.css 
+2013-03-20 15:08:16     error sass/style.scss (Line 52 of sass/partials/_page.scss: Invalid CSS after "			width:100%": expected ";", was ".image{")
+2013-03-20 15:08:16 overwrite stylesheets/style.css 
+2013-03-20 15:09:48     error sass/style.scss (Line 52 of sass/partials/_page.scss: Invalid CSS after "			width:100%": expected ";", was ".image{")
+2013-03-20 15:09:48 identical stylesheets/style.css 
+2013-03-20 15:10:04     error sass/style.scss (Line 52 of sass/partials/_page.scss: Invalid CSS after "			width:100%": expected ";", was ".image{")
+2013-03-20 15:10:04 identical stylesheets/style.css 
+2013-03-20 15:10:25     error sass/style.scss (Line 52 of sass/partials/_page.scss: Invalid CSS after "			width:100%": expected ";", was ".image{")
+2013-03-20 15:10:25 identical stylesheets/style.css 
+2013-03-20 15:10:48 overwrite stylesheets/style.css 
+2013-03-20 15:11:28 overwrite stylesheets/style.css 
+2013-03-20 15:13:18 overwrite stylesheets/style.css 
+2013-03-20 15:14:06 overwrite stylesheets/style.css 
+2013-03-20 15:14:52 overwrite stylesheets/style.css 
+2013-03-20 15:15:10 overwrite stylesheets/style.css 
+2013-03-20 15:15:16 overwrite stylesheets/style.css 
+2013-03-20 15:33:48 overwrite stylesheets/style.css 
+2013-03-20 15:39:31 overwrite stylesheets/style.css 
+2013-03-20 15:40:05 overwrite stylesheets/style.css 
+2013-03-20 15:40:28 overwrite stylesheets/style.css 
+2013-03-20 16:41:15 overwrite stylesheets/style.css 
+2013-03-20 16:42:06 overwrite stylesheets/style.css 
+2013-03-20 18:04:25 overwrite stylesheets/style.css 
+2013-03-24 10:56:15 overwrite stylesheets/style.css 
+2013-03-24 10:56:34 overwrite stylesheets/style.css 
+2013-03-24 10:57:46 overwrite stylesheets/style.css 
+2013-03-24 10:58:19 overwrite stylesheets/style.css 
+2013-03-24 10:58:46 identical stylesheets/style.css 
+2013-03-24 10:59:01 overwrite stylesheets/style.css 
+2013-03-24 10:59:28 overwrite stylesheets/style.css 
+2013-03-24 11:00:28 overwrite stylesheets/style.css 
+2013-03-24 11:00:35 overwrite stylesheets/style.css 
+2013-03-24 11:01:14 overwrite stylesheets/style.css 
+2013-03-24 11:02:02 overwrite stylesheets/style.css 
+2013-03-24 11:03:12 overwrite stylesheets/style.css 
+2013-03-24 11:03:44 overwrite stylesheets/style.css 
+2013-03-24 11:07:56 overwrite stylesheets/style.css 
+2013-03-24 11:08:13 overwrite stylesheets/style.css 
+2013-03-24 11:08:59 overwrite stylesheets/style.css 
+2013-03-24 11:09:29 overwrite stylesheets/style.css 
+2013-03-24 11:09:53 overwrite stylesheets/style.css 
+2013-03-24 11:14:41 overwrite stylesheets/style.css 
+2013-03-24 11:14:55 overwrite stylesheets/style.css 
+2013-03-24 11:16:38 overwrite stylesheets/style.css 
+2013-03-24 11:17:34 overwrite stylesheets/style.css 
+2013-03-24 11:18:34 overwrite stylesheets/style.css 
+2013-03-24 11:20:25 overwrite stylesheets/style.css 
+2013-03-24 11:23:52 overwrite stylesheets/style.css 
+2013-03-24 11:24:48 overwrite stylesheets/style.css 
+2013-03-24 11:29:35     error sass/style.scss (Line 128 of sass/partials/_page.scss: Invalid CSS after "	}": expected selector or at-rule, was "}")
+2013-03-24 11:29:35 overwrite stylesheets/style.css 
+2013-03-24 11:30:33 overwrite stylesheets/style.css 
+2013-03-24 11:32:55 overwrite stylesheets/style.css 
+2013-03-24 11:32:58 identical stylesheets/style.css 
+2013-03-24 11:33:06 overwrite stylesheets/style.css 
+2013-03-24 11:39:34 overwrite stylesheets/style.css 
+2013-03-24 11:40:59 overwrite stylesheets/style.css 
+2013-03-24 11:42:18 overwrite stylesheets/style.css 
+2013-03-24 11:42:54 overwrite stylesheets/style.css 
+2013-03-24 11:45:03 overwrite stylesheets/style.css 
+2013-03-24 11:47:41 overwrite stylesheets/style.css 
+2013-03-24 11:48:20 overwrite stylesheets/style.css 
+2013-03-24 11:48:56 overwrite stylesheets/style.css 
+2013-03-24 11:48:59 overwrite stylesheets/style.css 
+2013-03-24 11:49:24 overwrite stylesheets/style.css 
+2013-03-24 11:51:54 overwrite stylesheets/style.css 
+2013-03-24 11:56:05 overwrite stylesheets/style.css 
+2013-03-24 11:59:44 overwrite stylesheets/style.css 
+2013-03-24 11:59:53 overwrite stylesheets/style.css 
+2013-03-24 12:00:30 overwrite stylesheets/style.css 
+2013-03-24 12:00:50 overwrite stylesheets/style.css 
+2013-03-24 12:02:21 overwrite stylesheets/style.css 
+2013-03-24 12:03:09 overwrite stylesheets/style.css 
+2013-03-24 12:03:30 overwrite stylesheets/style.css 
+2013-03-24 12:05:32     error sass/style.scss (Line 127 of sass/partials/_page.scss: Invalid CSS after "				float": expected ";", was ":left;")
+2013-03-24 12:05:32 overwrite stylesheets/style.css 
+2013-03-24 12:05:41     error sass/style.scss (Line 127 of sass/partials/_page.scss: Invalid CSS after "				float": expected ";", was ":left;")
+2013-03-24 12:05:41 identical stylesheets/style.css 
+2013-03-24 12:05:53 overwrite stylesheets/style.css 
+2013-03-24 12:06:02 overwrite stylesheets/style.css 
+2013-03-24 12:08:02 overwrite stylesheets/style.css 
+2013-03-29 13:19:30 overwrite stylesheets/style.css 
+2013-03-29 14:46:13 overwrite stylesheets/style.css 
+2013-03-29 14:49:30 overwrite stylesheets/style.css 
+2013-03-29 14:52:21 overwrite stylesheets/style.css 
+2013-03-31 11:37:39 overwrite stylesheets/style.css 
+2013-03-31 11:37:44 identical stylesheets/style.css 
+2013-03-31 12:22:19 overwrite stylesheets/style.css 
+2013-03-31 12:22:19 overwrite stylesheets/partials/trophybuilder.css 
+2013-03-31 12:22:25 identical stylesheets/style.css 
+2013-03-31 12:22:26 identical stylesheets/partials/trophybuilder.css 
+2013-03-31 12:23:03 overwrite stylesheets/style.css 
+2013-03-31 12:24:09 overwrite stylesheets/style.css 
+2013-04-06 11:17:56 overwrite stylesheets/style.css 
+2013-04-06 11:17:56 identical stylesheets/partials/trophybuilder.css 
+2013-04-06 11:19:02    create stylesheets/partials/default.css 
+2013-04-06 11:19:02    create stylesheets/partials/mixins.css 
+2013-04-06 11:19:02    create stylesheets/partials/variables.css 
+2013-04-06 11:19:32     error sass/style.scss (Line 36: Invalid CSS after "...artials/mixins"": expected selector or at-rule, was "@import "partia...")
+2013-04-06 11:19:32 overwrite stylesheets/style.css 
+2013-04-06 11:19:58     error sass/style.scss (Line 36: Invalid CSS after "...artials/mixins"": expected selector or at-rule, was "@import "partia...")
+2013-04-06 11:19:58 identical stylesheets/style.css 
+2013-04-06 11:19:59 identical stylesheets/partials/default.css 
+2013-04-06 11:19:59 identical stylesheets/partials/mixins.css 
+2013-04-06 11:20:21     error sass/style.scss (Line 36: Invalid CSS after "...artials/mixins"": expected selector or at-rule, was "@import "partia...")
+2013-04-06 11:20:21 identical stylesheets/style.css 
+2013-04-06 11:20:21     error sass/partials/default.scss (Line 185: Undefined mixin 'regFont'.)
+2013-04-06 11:20:21 overwrite stylesheets/partials/default.css 
+2013-04-06 11:20:21 identical stylesheets/partials/mixins.css 
+2013-04-06 11:20:36     error sass/style.scss (Line 36: Invalid CSS after "...artials/mixins"": expected selector or at-rule, was "@import "partia...")
+2013-04-06 11:20:36 overwrite stylesheets/style.css 
+2013-04-06 11:21:09     error sass/style.scss (Line 37: Invalid CSS after "...artials/mixins"": expected selector or at-rule, was "@import "partia...")
+2013-04-06 11:21:09 overwrite stylesheets/style.css 
+2013-04-06 11:21:34     error sass/style.scss (Line 36: Invalid CSS after "...artials/mixins"": expected selector or at-rule, was "@import "partia...")
+2013-04-06 11:21:34 overwrite stylesheets/style.css 
+2013-04-06 11:22:03     error sass/style.scss (Line 36: Invalid CSS after "...artials/mixins"": expected selector or at-rule, was "@import "partia...")
+2013-04-06 11:22:03 identical stylesheets/style.css 
+2013-04-06 11:22:03 overwrite stylesheets/partials/mixins.css 
+2013-04-06 11:22:42     error sass/style.scss (Line 36: Invalid CSS after "...artials/mixins"": expected selector or at-rule, was "@import "partia...")
+2013-04-06 11:22:42 identical stylesheets/style.css 
+2013-04-06 11:22:42 identical stylesheets/partials/mixins.css 
+2013-04-06 11:22:57 overwrite stylesheets/style.css 
+2013-04-06 11:25:48     error sass/partials/basic.scss (Line 1: File to import not found or unreadable: ../fonts.scss.
+Load paths:
+  /Users/nathanmccartney/Desktop/Dropbox/Trophy Works/wordpress/wp-content/themes/html5boilerplatetheme/sass
+  /Users/nathanmccartney/Desktop/Dropbox/compass.app/Contents/Resources/ruby/compass_0.12/compass-0.12.2/frameworks/blueprint/stylesheets
+  /Users/nathanmccartney/Desktop/Dropbox/compass.app/Contents/Resources/ruby/compass_0.12/compass-0.12.2/frameworks/compass/stylesheets
+  /Users/nathanmccartney/Desktop/Dropbox/compass.app/Contents/Resources/ruby/compass_extensions/compass-960-plugin-f4bfe8555a7d2cae09bc/stylesheets
+  /Users/nathanmccartney/Desktop/Dropbox/compass.app/Contents/Resources/ruby/compass_extensions/heygrady-compass-html5-boilerplate-4cc8815/stylesheets
+  /Users/nathanmccartney/Desktop/Dropbox/compass.app/Contents/Resources/ruby/compass_extensions/compass-h5bp/stylesheets
+  /Users/nathanmccartney/Desktop/Dropbox/compass.app/Contents/Resources/ruby/compass_extensions/thomas-mcdonald-bootstrap-sass-831f25b/vendor/assets/stylesheets
+  /Users/nathanmccartney/Desktop/Dropbox/compass.app/Contents/Resources/ruby/compass_extensions/susy-1.0/sass
+  /Users/nathanmccartney/Desktop/Dropbox/compass.app/Contents/Resources/ruby/compass_common/sassy-math-1.2/stylesheets
+  /Users/nathanmccartney/Desktop/Dropbox/compass.app/Contents/Resources/ruby/compass_common/modular-scale-1.0.2/stylesheets
+  /Users/nathanmccartney/Desktop/Dropbox/compass.app/Contents/Resources/ruby/compass_extensions/zurb-foundation-3.0.9/scss
+  Compass::SpriteImporter)
+2013-04-06 11:25:48    create stylesheets/partials/basic.css 
+2013-04-06 11:25:59     error sass/partials/homepage.scss (Line 1: File to import not found or unreadable: ../fonts.scss.
+Load paths:
+  /Users/nathanmccartney/Desktop/Dropbox/Trophy Works/wordpress/wp-content/themes/html5boilerplatetheme/sass
+  /Users/nathanmccartney/Desktop/Dropbox/compass.app/Contents/Resources/ruby/compass_0.12/compass-0.12.2/frameworks/blueprint/stylesheets
+  /Users/nathanmccartney/Desktop/Dropbox/compass.app/Contents/Resources/ruby/compass_0.12/compass-0.12.2/frameworks/compass/stylesheets
+  /Users/nathanmccartney/Desktop/Dropbox/compass.app/Contents/Resources/ruby/compass_extensions/compass-960-plugin-f4bfe8555a7d2cae09bc/stylesheets
+  /Users/nathanmccartney/Desktop/Dropbox/compass.app/Contents/Resources/ruby/compass_extensions/heygrady-compass-html5-boilerplate-4cc8815/stylesheets
+  /Users/nathanmccartney/Desktop/Dropbox/compass.app/Contents/Resources/ruby/compass_extensions/compass-h5bp/stylesheets
+  /Users/nathanmccartney/Desktop/Dropbox/compass.app/Contents/Resources/ruby/compass_extensions/thomas-mcdonald-bootstrap-sass-831f25b/vendor/assets/stylesheets
+  /Users/nathanmccartney/Desktop/Dropbox/compass.app/Contents/Resources/ruby/compass_extensions/susy-1.0/sass
+  /Users/nathanmccartney/Desktop/Dropbox/compass.app/Contents/Resources/ruby/compass_common/sassy-math-1.2/stylesheets
+  /Users/nathanmccartney/Desktop/Dropbox/compass.app/Contents/Resources/ruby/compass_common/modular-scale-1.0.2/stylesheets
+  /Users/nathanmccartney/Desktop/Dropbox/compass.app/Contents/Resources/ruby/compass_extensions/zurb-foundation-3.0.9/scss
+  Compass::SpriteImporter)
+2013-04-06 11:25:59    create stylesheets/partials/homepage.css 
+2013-04-06 11:25:59     error sass/partials/homepage.scss (Line 1: File to import not found or unreadable: ../fonts.scss.
+Load paths:
+  /Users/nathanmccartney/Desktop/Dropbox/Trophy Works/wordpress/wp-content/themes/html5boilerplatetheme/sass
+  /Users/nathanmccartney/Desktop/Dropbox/compass.app/Contents/Resources/ruby/compass_0.12/compass-0.12.2/frameworks/blueprint/stylesheets
+  /Users/nathanmccartney/Desktop/Dropbox/compass.app/Contents/Resources/ruby/compass_0.12/compass-0.12.2/frameworks/compass/stylesheets
+  /Users/nathanmccartney/Desktop/Dropbox/compass.app/Contents/Resources/ruby/compass_extensions/compass-960-plugin-f4bfe8555a7d2cae09bc/stylesheets
+  /Users/nathanmccartney/Desktop/Dropbox/compass.app/Contents/Resources/ruby/compass_extensions/heygrady-compass-html5-boilerplate-4cc8815/stylesheets
+  /Users/nathanmccartney/Desktop/Dropbox/compass.app/Contents/Resources/ruby/compass_extensions/compass-h5bp/stylesheets
+  /Users/nathanmccartney/Desktop/Dropbox/compass.app/Contents/Resources/ruby/compass_extensions/thomas-mcdonald-bootstrap-sass-831f25b/vendor/assets/stylesheets
+  /Users/nathanmccartney/Desktop/Dropbox/compass.app/Contents/Resources/ruby/compass_extensions/susy-1.0/sass
+  /Users/nathanmccartney/Desktop/Dropbox/compass.app/Contents/Resources/ruby/compass_common/sassy-math-1.2/stylesheets
+  /Users/nathanmccartney/Desktop/Dropbox/compass.app/Contents/Resources/ruby/compass_common/modular-scale-1.0.2/stylesheets
+  /Users/nathanmccartney/Desktop/Dropbox/compass.app/Contents/Resources/ruby/compass_extensions/zurb-foundation-3.0.9/scss
+  Compass::SpriteImporter)
+2013-04-06 11:25:59 overwrite stylesheets/partials/homepage.css 
+2013-04-06 11:26:42     error sass/style.scss (Line 1 of sass/partials/homepage.scss: File to import not found or unreadable: ../fonts.scss.
+Load paths:
+  /Users/nathanmccartney/Desktop/Dropbox/Trophy Works/wordpress/wp-content/themes/html5boilerplatetheme/sass
+  /Users/nathanmccartney/Desktop/Dropbox/compass.app/Contents/Resources/ruby/compass_0.12/compass-0.12.2/frameworks/blueprint/stylesheets
+  /Users/nathanmccartney/Desktop/Dropbox/compass.app/Contents/Resources/ruby/compass_0.12/compass-0.12.2/frameworks/compass/stylesheets
+  /Users/nathanmccartney/Desktop/Dropbox/compass.app/Contents/Resources/ruby/compass_extensions/compass-960-plugin-f4bfe8555a7d2cae09bc/stylesheets
+  /Users/nathanmccartney/Desktop/Dropbox/compass.app/Contents/Resources/ruby/compass_extensions/heygrady-compass-html5-boilerplate-4cc8815/stylesheets
+  /Users/nathanmccartney/Desktop/Dropbox/compass.app/Contents/Resources/ruby/compass_extensions/compass-h5bp/stylesheets
+  /Users/nathanmccartney/Desktop/Dropbox/compass.app/Contents/Resources/ruby/compass_extensions/thomas-mcdonald-bootstrap-sass-831f25b/vendor/assets/stylesheets
+  /Users/nathanmccartney/Desktop/Dropbox/compass.app/Contents/Resources/ruby/compass_extensions/susy-1.0/sass
+  /Users/nathanmccartney/Desktop/Dropbox/compass.app/Contents/Resources/ruby/compass_common/sassy-math-1.2/stylesheets
+  /Users/nathanmccartney/Desktop/Dropbox/compass.app/Contents/Resources/ruby/compass_common/modular-scale-1.0.2/stylesheets
+  /Users/nathanmccartney/Desktop/Dropbox/compass.app/Contents/Resources/ruby/compass_extensions/zurb-foundation-3.0.9/scss
+  Compass::SpriteImporter)
+2013-04-06 11:26:42 overwrite stylesheets/style.css 
+2013-04-06 11:26:42     error sass/partials/homepage.scss (Line 1: File to import not found or unreadable: ../fonts.scss.
+Load paths:
+  /Users/nathanmccartney/Desktop/Dropbox/Trophy Works/wordpress/wp-content/themes/html5boilerplatetheme/sass
+  /Users/nathanmccartney/Desktop/Dropbox/compass.app/Contents/Resources/ruby/compass_0.12/compass-0.12.2/frameworks/blueprint/stylesheets
+  /Users/nathanmccartney/Desktop/Dropbox/compass.app/Contents/Resources/ruby/compass_0.12/compass-0.12.2/frameworks/compass/stylesheets
+  /Users/nathanmccartney/Desktop/Dropbox/compass.app/Contents/Resources/ruby/compass_extensions/compass-960-plugin-f4bfe8555a7d2cae09bc/stylesheets
+  /Users/nathanmccartney/Desktop/Dropbox/compass.app/Contents/Resources/ruby/compass_extensions/heygrady-compass-html5-boilerplate-4cc8815/stylesheets
+  /Users/nathanmccartney/Desktop/Dropbox/compass.app/Contents/Resources/ruby/compass_extensions/compass-h5bp/stylesheets
+  /Users/nathanmccartney/Desktop/Dropbox/compass.app/Contents/Resources/ruby/compass_extensions/thomas-mcdonald-bootstrap-sass-831f25b/vendor/assets/stylesheets
+  /Users/nathanmccartney/Desktop/Dropbox/compass.app/Contents/Resources/ruby/compass_extensions/susy-1.0/sass
+  /Users/nathanmccartney/Desktop/Dropbox/compass.app/Contents/Resources/ruby/compass_common/sassy-math-1.2/stylesheets
+  /Users/nathanmccartney/Desktop/Dropbox/compass.app/Contents/Resources/ruby/compass_common/modular-scale-1.0.2/stylesheets
+  /Users/nathanmccartney/Desktop/Dropbox/compass.app/Contents/Resources/ruby/compass_extensions/zurb-foundation-3.0.9/scss
+  Compass::SpriteImporter)
+2013-04-06 11:26:42 overwrite stylesheets/partials/homepage.css 
+2013-04-06 11:26:52     error sass/style.scss (Line 1 of sass/partials/homepage.scss: File to import not found or unreadable: ../fonts.scss.
+Load paths:
+  /Users/nathanmccartney/Desktop/Dropbox/Trophy Works/wordpress/wp-content/themes/html5boilerplatetheme/sass
+  /Users/nathanmccartney/Desktop/Dropbox/compass.app/Contents/Resources/ruby/compass_0.12/compass-0.12.2/frameworks/blueprint/stylesheets
+  /Users/nathanmccartney/Desktop/Dropbox/compass.app/Contents/Resources/ruby/compass_0.12/compass-0.12.2/frameworks/compass/stylesheets
+  /Users/nathanmccartney/Desktop/Dropbox/compass.app/Contents/Resources/ruby/compass_extensions/compass-960-plugin-f4bfe8555a7d2cae09bc/stylesheets
+  /Users/nathanmccartney/Desktop/Dropbox/compass.app/Contents/Resources/ruby/compass_extensions/heygrady-compass-html5-boilerplate-4cc8815/stylesheets
+  /Users/nathanmccartney/Desktop/Dropbox/compass.app/Contents/Resources/ruby/compass_extensions/compass-h5bp/stylesheets
+  /Users/nathanmccartney/Desktop/Dropbox/compass.app/Contents/Resources/ruby/compass_extensions/thomas-mcdonald-bootstrap-sass-831f25b/vendor/assets/stylesheets
+  /Users/nathanmccartney/Desktop/Dropbox/compass.app/Contents/Resources/ruby/compass_extensions/susy-1.0/sass
+  /Users/nathanmccartney/Desktop/Dropbox/compass.app/Contents/Resources/ruby/compass_common/sassy-math-1.2/stylesheets
+  /Users/nathanmccartney/Desktop/Dropbox/compass.app/Contents/Resources/ruby/compass_common/modular-scale-1.0.2/stylesheets
+  /Users/nathanmccartney/Desktop/Dropbox/compass.app/Contents/Resources/ruby/compass_extensions/zurb-foundation-3.0.9/scss
+  Compass::SpriteImporter)
+2013-04-06 11:26:52 identical stylesheets/style.css 
+2013-04-06 11:26:53     error sass/partials/homepage.scss (Line 1: File to import not found or unreadable: ../fonts.scss.
+Load paths:
+  /Users/nathanmccartney/Desktop/Dropbox/Trophy Works/wordpress/wp-content/themes/html5boilerplatetheme/sass
+  /Users/nathanmccartney/Desktop/Dropbox/compass.app/Contents/Resources/ruby/compass_0.12/compass-0.12.2/frameworks/blueprint/stylesheets
+  /Users/nathanmccartney/Desktop/Dropbox/compass.app/Contents/Resources/ruby/compass_0.12/compass-0.12.2/frameworks/compass/stylesheets
+  /Users/nathanmccartney/Desktop/Dropbox/compass.app/Contents/Resources/ruby/compass_extensions/compass-960-plugin-f4bfe8555a7d2cae09bc/stylesheets
+  /Users/nathanmccartney/Desktop/Dropbox/compass.app/Contents/Resources/ruby/compass_extensions/heygrady-compass-html5-boilerplate-4cc8815/stylesheets
+  /Users/nathanmccartney/Desktop/Dropbox/compass.app/Contents/Resources/ruby/compass_extensions/compass-h5bp/stylesheets
+  /Users/nathanmccartney/Desktop/Dropbox/compass.app/Contents/Resources/ruby/compass_extensions/thomas-mcdonald-bootstrap-sass-831f25b/vendor/assets/stylesheets
+  /Users/nathanmccartney/Desktop/Dropbox/compass.app/Contents/Resources/ruby/compass_extensions/susy-1.0/sass
+  /Users/nathanmccartney/Desktop/Dropbox/compass.app/Contents/Resources/ruby/compass_common/sassy-math-1.2/stylesheets
+  /Users/nathanmccartney/Desktop/Dropbox/compass.app/Contents/Resources/ruby/compass_common/modular-scale-1.0.2/stylesheets
+  /Users/nathanmccartney/Desktop/Dropbox/compass.app/Contents/Resources/ruby/compass_extensions/zurb-foundation-3.0.9/scss
+  Compass::SpriteImporter)
+2013-04-06 11:26:53 identical stylesheets/partials/homepage.css 
+2013-04-06 11:27:07     error sass/style.scss (Line 3 of sass/partials/homepage.scss: File to import not found or unreadable: .mixins.scss.
+Load paths:
+  /Users/nathanmccartney/Desktop/Dropbox/Trophy Works/wordpress/wp-content/themes/html5boilerplatetheme/sass
+  /Users/nathanmccartney/Desktop/Dropbox/compass.app/Contents/Resources/ruby/compass_0.12/compass-0.12.2/frameworks/blueprint/stylesheets
+  /Users/nathanmccartney/Desktop/Dropbox/compass.app/Contents/Resources/ruby/compass_0.12/compass-0.12.2/frameworks/compass/stylesheets
+  /Users/nathanmccartney/Desktop/Dropbox/compass.app/Contents/Resources/ruby/compass_extensions/compass-960-plugin-f4bfe8555a7d2cae09bc/stylesheets
+  /Users/nathanmccartney/Desktop/Dropbox/compass.app/Contents/Resources/ruby/compass_extensions/heygrady-compass-html5-boilerplate-4cc8815/stylesheets
+  /Users/nathanmccartney/Desktop/Dropbox/compass.app/Contents/Resources/ruby/compass_extensions/compass-h5bp/stylesheets
+  /Users/nathanmccartney/Desktop/Dropbox/compass.app/Contents/Resources/ruby/compass_extensions/thomas-mcdonald-bootstrap-sass-831f25b/vendor/assets/stylesheets
+  /Users/nathanmccartney/Desktop/Dropbox/compass.app/Contents/Resources/ruby/compass_extensions/susy-1.0/sass
+  /Users/nathanmccartney/Desktop/Dropbox/compass.app/Contents/Resources/ruby/compass_common/sassy-math-1.2/stylesheets
+  /Users/nathanmccartney/Desktop/Dropbox/compass.app/Contents/Resources/ruby/compass_common/modular-scale-1.0.2/stylesheets
+  /Users/nathanmccartney/Desktop/Dropbox/compass.app/Contents/Resources/ruby/compass_extensions/zurb-foundation-3.0.9/scss
+  Compass::SpriteImporter)
+2013-04-06 11:27:07 overwrite stylesheets/style.css 
+2013-04-06 11:27:08     error sass/partials/homepage.scss (Line 3: File to import not found or unreadable: .mixins.scss.
+Load paths:
+  /Users/nathanmccartney/Desktop/Dropbox/Trophy Works/wordpress/wp-content/themes/html5boilerplatetheme/sass
+  /Users/nathanmccartney/Desktop/Dropbox/compass.app/Contents/Resources/ruby/compass_0.12/compass-0.12.2/frameworks/blueprint/stylesheets
+  /Users/nathanmccartney/Desktop/Dropbox/compass.app/Contents/Resources/ruby/compass_0.12/compass-0.12.2/frameworks/compass/stylesheets
+  /Users/nathanmccartney/Desktop/Dropbox/compass.app/Contents/Resources/ruby/compass_extensions/compass-960-plugin-f4bfe8555a7d2cae09bc/stylesheets
+  /Users/nathanmccartney/Desktop/Dropbox/compass.app/Contents/Resources/ruby/compass_extensions/heygrady-compass-html5-boilerplate-4cc8815/stylesheets
+  /Users/nathanmccartney/Desktop/Dropbox/compass.app/Contents/Resources/ruby/compass_extensions/compass-h5bp/stylesheets
+  /Users/nathanmccartney/Desktop/Dropbox/compass.app/Contents/Resources/ruby/compass_extensions/thomas-mcdonald-bootstrap-sass-831f25b/vendor/assets/stylesheets
+  /Users/nathanmccartney/Desktop/Dropbox/compass.app/Contents/Resources/ruby/compass_extensions/susy-1.0/sass
+  /Users/nathanmccartney/Desktop/Dropbox/compass.app/Contents/Resources/ruby/compass_common/sassy-math-1.2/stylesheets
+  /Users/nathanmccartney/Desktop/Dropbox/compass.app/Contents/Resources/ruby/compass_common/modular-scale-1.0.2/stylesheets
+  /Users/nathanmccartney/Desktop/Dropbox/compass.app/Contents/Resources/ruby/compass_extensions/zurb-foundation-3.0.9/scss
+  Compass::SpriteImporter)
+2013-04-06 11:27:08 overwrite stylesheets/partials/homepage.css 
+2013-04-06 11:27:24     error sass/style.scss (Line 3 of sass/partials/homepage.scss: File to import not found or unreadable: .mixins.scss.
+Load paths:
+  /Users/nathanmccartney/Desktop/Dropbox/Trophy Works/wordpress/wp-content/themes/html5boilerplatetheme/sass
+  /Users/nathanmccartney/Desktop/Dropbox/compass.app/Contents/Resources/ruby/compass_0.12/compass-0.12.2/frameworks/blueprint/stylesheets
+  /Users/nathanmccartney/Desktop/Dropbox/compass.app/Contents/Resources/ruby/compass_0.12/compass-0.12.2/frameworks/compass/stylesheets
+  /Users/nathanmccartney/Desktop/Dropbox/compass.app/Contents/Resources/ruby/compass_extensions/compass-960-plugin-f4bfe8555a7d2cae09bc/stylesheets
+  /Users/nathanmccartney/Desktop/Dropbox/compass.app/Contents/Resources/ruby/compass_extensions/heygrady-compass-html5-boilerplate-4cc8815/stylesheets
+  /Users/nathanmccartney/Desktop/Dropbox/compass.app/Contents/Resources/ruby/compass_extensions/compass-h5bp/stylesheets
+  /Users/nathanmccartney/Desktop/Dropbox/compass.app/Contents/Resources/ruby/compass_extensions/thomas-mcdonald-bootstrap-sass-831f25b/vendor/assets/stylesheets
+  /Users/nathanmccartney/Desktop/Dropbox/compass.app/Contents/Resources/ruby/compass_extensions/susy-1.0/sass
+  /Users/nathanmccartney/Desktop/Dropbox/compass.app/Contents/Resources/ruby/compass_common/sassy-math-1.2/stylesheets
+  /Users/nathanmccartney/Desktop/Dropbox/compass.app/Contents/Resources/ruby/compass_common/modular-scale-1.0.2/stylesheets
+  /Users/nathanmccartney/Desktop/Dropbox/compass.app/Contents/Resources/ruby/compass_extensions/zurb-foundation-3.0.9/scss
+  Compass::SpriteImporter)
+2013-04-06 11:27:24 identical stylesheets/style.css 
+2013-04-06 11:27:24     error sass/partials/homepage.scss (Line 3: File to import not found or unreadable: .mixins.scss.
+Load paths:
+  /Users/nathanmccartney/Desktop/Dropbox/Trophy Works/wordpress/wp-content/themes/html5boilerplatetheme/sass
+  /Users/nathanmccartney/Desktop/Dropbox/compass.app/Contents/Resources/ruby/compass_0.12/compass-0.12.2/frameworks/blueprint/stylesheets
+  /Users/nathanmccartney/Desktop/Dropbox/compass.app/Contents/Resources/ruby/compass_0.12/compass-0.12.2/frameworks/compass/stylesheets
+  /Users/nathanmccartney/Desktop/Dropbox/compass.app/Contents/Resources/ruby/compass_extensions/compass-960-plugin-f4bfe8555a7d2cae09bc/stylesheets
+  /Users/nathanmccartney/Desktop/Dropbox/compass.app/Contents/Resources/ruby/compass_extensions/heygrady-compass-html5-boilerplate-4cc8815/stylesheets
+  /Users/nathanmccartney/Desktop/Dropbox/compass.app/Contents/Resources/ruby/compass_extensions/compass-h5bp/stylesheets
+  /Users/nathanmccartney/Desktop/Dropbox/compass.app/Contents/Resources/ruby/compass_extensions/thomas-mcdonald-bootstrap-sass-831f25b/vendor/assets/stylesheets
+  /Users/nathanmccartney/Desktop/Dropbox/compass.app/Contents/Resources/ruby/compass_extensions/susy-1.0/sass
+  /Users/nathanmccartney/Desktop/Dropbox/compass.app/Contents/Resources/ruby/compass_common/sassy-math-1.2/stylesheets
+  /Users/nathanmccartney/Desktop/Dropbox/compass.app/Contents/Resources/ruby/compass_common/modular-scale-1.0.2/stylesheets
+  /Users/nathanmccartney/Desktop/Dropbox/compass.app/Contents/Resources/ruby/compass_extensions/zurb-foundation-3.0.9/scss
+  Compass::SpriteImporter)
+2013-04-06 11:27:24 identical stylesheets/partials/homepage.css 
+2013-04-06 11:27:35 overwrite stylesheets/style.css 
+2013-04-06 11:27:36 overwrite stylesheets/partials/homepage.css 
+2013-04-06 11:27:37 identical stylesheets/style.css 
+2013-04-06 11:27:49     error sass/style.scss (Line 11 of sass/partials/homepage.scss: Undefined variable: "$black".)
+2013-04-06 11:27:49 overwrite stylesheets/style.css 
+2013-04-06 11:27:49     error sass/partials/homepage.scss (Line 11: Undefined variable: "$black".)
+2013-04-06 11:27:49 overwrite stylesheets/partials/homepage.css 
+2013-04-06 11:28:10     error sass/style.scss (Line 11 of sass/partials/homepage.scss: Invalid CSS after "    color: ": expected expression (e.g. 1px, bold), was "$#000;")
+2013-04-06 11:28:10 overwrite stylesheets/style.css 
+2013-04-06 11:28:10     error sass/partials/homepage.scss (Line 11: Invalid CSS after "    color: ": expected expression (e.g. 1px, bold), was "$#000;")
+2013-04-06 11:28:10 overwrite stylesheets/partials/homepage.css 
+2013-04-06 11:28:17 overwrite stylesheets/style.css 
+2013-04-06 11:28:17 overwrite stylesheets/partials/homepage.css 
+2013-04-06 11:28:41     error sass/style.scss (Line 7 of sass/partials/homepage.scss: Mixin radius is missing argument $radius.)
+2013-04-06 11:28:41 overwrite stylesheets/style.css 
+2013-04-06 11:28:42     error sass/partials/homepage.scss (Line 7: Undefined mixin 'radius'.)
+2013-04-06 11:28:42 overwrite stylesheets/partials/homepage.css 
+2013-04-06 11:28:53     error sass/style.scss (Line 7 of sass/partials/homepage.scss: Mixin radius is missing argument $radius.)
+2013-04-06 11:28:53 identical stylesheets/style.css 
+2013-04-06 11:28:54     error sass/partials/homepage.scss (Line 7: Undefined mixin 'radius'.)
+2013-04-06 11:28:54 identical stylesheets/partials/homepage.css 
+2013-04-06 11:29:19     error sass/style.scss (Line 3 of sass/partials/homepage.scss: Invalid CSS after "...ort "../mixins"": expected selector or at-rule, was ".title-block{")
+2013-04-06 11:29:19 overwrite stylesheets/style.css 
+2013-04-06 11:29:19     error sass/partials/homepage.scss (Line 3: Invalid CSS after "...ort "../mixins"": expected selector or at-rule, was ".title-block{")
+2013-04-06 11:29:19 overwrite stylesheets/partials/homepage.css 
+2013-04-06 11:29:26     error sass/style.scss (Line 1 of sass/partials/homepage.scss: File to import not found or unreadable: ../mixins.
+Load paths:
+  /Users/nathanmccartney/Desktop/Dropbox/Trophy Works/wordpress/wp-content/themes/html5boilerplatetheme/sass
+  /Users/nathanmccartney/Desktop/Dropbox/compass.app/Contents/Resources/ruby/compass_0.12/compass-0.12.2/frameworks/blueprint/stylesheets
+  /Users/nathanmccartney/Desktop/Dropbox/compass.app/Contents/Resources/ruby/compass_0.12/compass-0.12.2/frameworks/compass/stylesheets
+  /Users/nathanmccartney/Desktop/Dropbox/compass.app/Contents/Resources/ruby/compass_extensions/compass-960-plugin-f4bfe8555a7d2cae09bc/stylesheets
+  /Users/nathanmccartney/Desktop/Dropbox/compass.app/Contents/Resources/ruby/compass_extensions/heygrady-compass-html5-boilerplate-4cc8815/stylesheets
+  /Users/nathanmccartney/Desktop/Dropbox/compass.app/Contents/Resources/ruby/compass_extensions/compass-h5bp/stylesheets
+  /Users/nathanmccartney/Desktop/Dropbox/compass.app/Contents/Resources/ruby/compass_extensions/thomas-mcdonald-bootstrap-sass-831f25b/vendor/assets/stylesheets
+  /Users/nathanmccartney/Desktop/Dropbox/compass.app/Contents/Resources/ruby/compass_extensions/susy-1.0/sass
+  /Users/nathanmccartney/Desktop/Dropbox/compass.app/Contents/Resources/ruby/compass_common/sassy-math-1.2/stylesheets
+  /Users/nathanmccartney/Desktop/Dropbox/compass.app/Contents/Resources/ruby/compass_common/modular-scale-1.0.2/stylesheets
+  /Users/nathanmccartney/Desktop/Dropbox/compass.app/Contents/Resources/ruby/compass_extensions/zurb-foundation-3.0.9/scss
+  Compass::SpriteImporter)
+2013-04-06 11:29:26 overwrite stylesheets/style.css 
+2013-04-06 11:29:26     error sass/partials/homepage.scss (Line 1: File to import not found or unreadable: ../mixins.
+Load paths:
+  /Users/nathanmccartney/Desktop/Dropbox/Trophy Works/wordpress/wp-content/themes/html5boilerplatetheme/sass
+  /Users/nathanmccartney/Desktop/Dropbox/compass.app/Contents/Resources/ruby/compass_0.12/compass-0.12.2/frameworks/blueprint/stylesheets
+  /Users/nathanmccartney/Desktop/Dropbox/compass.app/Contents/Resources/ruby/compass_0.12/compass-0.12.2/frameworks/compass/stylesheets
+  /Users/nathanmccartney/Desktop/Dropbox/compass.app/Contents/Resources/ruby/compass_extensions/compass-960-plugin-f4bfe8555a7d2cae09bc/stylesheets
+  /Users/nathanmccartney/Desktop/Dropbox/compass.app/Contents/Resources/ruby/compass_extensions/heygrady-compass-html5-boilerplate-4cc8815/stylesheets
+  /Users/nathanmccartney/Desktop/Dropbox/compass.app/Contents/Resources/ruby/compass_extensions/compass-h5bp/stylesheets
+  /Users/nathanmccartney/Desktop/Dropbox/compass.app/Contents/Resources/ruby/compass_extensions/thomas-mcdonald-bootstrap-sass-831f25b/vendor/assets/stylesheets
+  /Users/nathanmccartney/Desktop/Dropbox/compass.app/Contents/Resources/ruby/compass_extensions/susy-1.0/sass
+  /Users/nathanmccartney/Desktop/Dropbox/compass.app/Contents/Resources/ruby/compass_common/sassy-math-1.2/stylesheets
+  /Users/nathanmccartney/Desktop/Dropbox/compass.app/Contents/Resources/ruby/compass_common/modular-scale-1.0.2/stylesheets
+  /Users/nathanmccartney/Desktop/Dropbox/compass.app/Contents/Resources/ruby/compass_extensions/zurb-foundation-3.0.9/scss
+  Compass::SpriteImporter)
+2013-04-06 11:29:26 overwrite stylesheets/partials/homepage.css 
+2013-04-06 11:29:49     error sass/style.scss (Line 7 of sass/partials/homepage.scss: Mixin radius is missing argument $radius.)
+2013-04-06 11:29:49 overwrite stylesheets/style.css 
+2013-04-06 11:29:50     error sass/partials/homepage.scss (Line 7: Mixin radius is missing argument $radius.)
+2013-04-06 11:29:50 overwrite stylesheets/partials/homepage.css 
+2013-04-06 11:30:11     error sass/style.scss (Line 7 of sass/partials/homepage.scss: Mixin radius is missing argument $radius.)
+2013-04-06 11:30:11 identical stylesheets/style.css 
+2013-04-06 11:30:11     error sass/partials/homepage.scss (Line 7: Mixin radius is missing argument $radius.)
+2013-04-06 11:30:11 identical stylesheets/partials/homepage.css 
+2013-04-06 11:30:23     error sass/style.scss (Line 7 of sass/partials/homepage.scss: Mixin radius is missing argument $radius.)
+2013-04-06 11:30:23 identical stylesheets/style.css 
+2013-04-06 11:30:24     error sass/partials/homepage.scss (Line 7: Mixin radius is missing argument $radius.)
+2013-04-06 11:30:24 identical stylesheets/partials/homepage.css 
+2013-04-06 11:30:31     error sass/style.scss (Line 7 of sass/partials/homepage.scss: Mixin radius is missing argument $radius.)
+2013-04-06 11:30:31 identical stylesheets/style.css 
+2013-04-06 11:30:31     error sass/partials/homepage.scss (Line 7: Mixin radius is missing argument $radius.)
+2013-04-06 11:30:31 identical stylesheets/partials/homepage.css 
+2013-04-06 11:30:54 overwrite stylesheets/style.css 
+2013-04-06 11:30:54 overwrite stylesheets/partials/homepage.css 
+2013-04-06 11:30:54 identical stylesheets/partials/mixins.css 
+2013-04-06 11:30:59 identical stylesheets/style.css 
+2013-04-06 11:30:59 identical stylesheets/partials/homepage.css 
+2013-04-06 11:31:00 identical stylesheets/partials/mixins.css 
+2013-04-06 11:31:52     error sass/style.scss (Line 2 of sass/partials/homepage.scss: Invalid CSS after "@include ": expected identifier, was ""fonts";")
+2013-04-06 11:31:52 overwrite stylesheets/style.css 
+2013-04-06 11:31:52     error sass/partials/homepage.scss (Line 2: Invalid CSS after "@include ": expected identifier, was ""fonts";")
+2013-04-06 11:31:52 overwrite stylesheets/partials/homepage.css 
+2013-04-06 11:31:57     error sass/style.scss (Line 2 of sass/partials/homepage.scss: Invalid CSS after "@include ": expected identifier, was ""fonts";")
+2013-04-06 11:31:57 identical stylesheets/style.css 
+2013-04-06 11:31:58     error sass/partials/homepage.scss (Line 2: Invalid CSS after "@include ": expected identifier, was ""fonts";")
+2013-04-06 11:31:58 identical stylesheets/partials/homepage.css 
+2013-04-06 11:32:00     error sass/style.scss (Line 2 of sass/partials/homepage.scss: Invalid CSS after "@include ": expected identifier, was ""fonts";")
+2013-04-06 11:32:00 identical stylesheets/style.css 
+2013-04-06 11:32:00     error sass/partials/homepage.scss (Line 2: Invalid CSS after "@include ": expected identifier, was ""fonts";")
+2013-04-06 11:32:00 identical stylesheets/partials/homepage.css 
+2013-04-06 11:32:11     error sass/style.scss (Line 2 of sass/partials/homepage.scss: Invalid CSS after "@include ": expected identifier, was ""_fonts";")
+2013-04-06 11:32:11 overwrite stylesheets/style.css 
+2013-04-06 11:32:11     error sass/partials/homepage.scss (Line 2: Invalid CSS after "@include ": expected identifier, was ""_fonts";")
+2013-04-06 11:32:11 overwrite stylesheets/partials/homepage.css 
+2013-04-06 11:32:23     error sass/style.scss (Line 2 of sass/partials/homepage.scss: Invalid CSS after "@include ": expected identifier, was ""_fonts";")
+2013-04-06 11:32:23 identical stylesheets/style.css 
+2013-04-06 11:32:23     error sass/partials/homepage.scss (Line 2: Invalid CSS after "@include ": expected identifier, was ""_fonts";")
+2013-04-06 11:32:23 identical stylesheets/partials/homepage.css 
+2013-04-06 11:32:29 overwrite stylesheets/style.css 
+2013-04-06 11:32:29 overwrite stylesheets/partials/homepage.css 
+2013-04-06 11:32:53 overwrite stylesheets/style.css 
+2013-04-06 11:32:53 overwrite stylesheets/partials/homepage.css 
+2013-04-06 11:33:38 overwrite stylesheets/style.css 
+2013-04-06 11:33:39 overwrite stylesheets/partials/homepage.css 
+2013-04-06 11:35:15     error sass/style.scss (Line 3 of sass/partials/_page.scss: Invalid CSS after "@import "mixins"": expected selector or at-rule, was "@import 'http:/...")
+2013-04-06 11:35:15 overwrite stylesheets/style.css 
+2013-04-06 11:35:21     error sass/style.scss (Line 3 of sass/partials/_page.scss: Invalid CSS after "@import "mixins"": expected selector or at-rule, was "@import 'http:/...")
+2013-04-06 11:35:21 identical stylesheets/style.css 
+2013-04-06 11:36:05     error sass/style.scss (Line 3 of sass/partials/_page.scss: Invalid CSS after "@import "mixins"": expected selector or at-rule, was "@import 'http:/...")
+2013-04-06 11:36:05 identical stylesheets/style.css 
+2013-04-06 11:36:05 identical stylesheets/partials/homepage.css 
+2013-04-06 11:36:05 identical stylesheets/partials/mixins.css 
+2013-04-06 11:38:57     error sass/style.scss (Line 3 of sass/partials/_page.scss: Invalid CSS after "@import "mixins"": expected selector or at-rule, was "@import 'http:/...")
+2013-04-06 11:38:57 identical stylesheets/style.css 
+2013-04-06 11:39:30 overwrite stylesheets/style.css 
+2013-04-06 11:50:34     error sass/style.scss (Line 3 of sass/partials/homepage.scss: Invalid CSS after "@import "mixins"": expected selector or at-rule, was ".title{")
+2013-04-06 11:50:34 overwrite stylesheets/style.css 
+2013-04-06 11:50:34     error sass/partials/homepage.scss (Line 3: Invalid CSS after "@import "mixins"": expected selector or at-rule, was ".title{")
+2013-04-06 11:50:34 overwrite stylesheets/partials/homepage.css 
+2013-04-06 11:54:16 overwrite stylesheets/style.css 
+2013-04-06 11:54:16 overwrite stylesheets/partials/homepage.css 
+2013-04-06 12:00:02 overwrite stylesheets/style.css 
+2013-04-06 12:00:12     error sass/style.scss (Line 9 of sass/partials/_fonts.scss: Invalid CSS after "font-family:": expected pseudoclass or pseudoelement, was " 'Tauri', sans-...")
+2013-04-06 12:00:12 overwrite stylesheets/style.css 
+2013-04-06 12:01:02     error sass/style.scss (Line 9 of sass/partials/_fonts.scss: Invalid CSS after "font-family:": expected pseudoclass or pseudoelement, was " 'Tauri', sans-...")
+2013-04-06 12:01:02 identical stylesheets/style.css 
+2013-04-06 12:01:02 overwrite stylesheets/partials/homepage.css 
+2013-04-06 12:01:15     error sass/style.scss (Line 9 of sass/partials/_fonts.scss: Invalid CSS after "font-family:": expected pseudoclass or pseudoelement, was " 'Tauri', sans-...")
+2013-04-06 12:01:15 identical stylesheets/style.css 
+2013-04-06 12:01:15 overwrite stylesheets/partials/homepage.css 
+2013-04-06 12:01:26     error sass/style.scss (Line 9 of sass/partials/_fonts.scss: Invalid CSS after "font-family:": expected pseudoclass or pseudoelement, was " 'Tauri', sans-...")
+2013-04-06 12:01:26 identical stylesheets/style.css 
+2013-04-06 12:01:26 overwrite stylesheets/partials/homepage.css 
+2013-04-06 12:01:43 overwrite stylesheets/style.css 
+2013-04-06 12:01:47 identical stylesheets/style.css 
+2013-04-06 12:03:37 identical stylesheets/style.css 
+2013-04-06 12:03:37 identical stylesheets/partials/homepage.css 
+2013-04-06 12:04:09 overwrite stylesheets/style.css 
+2013-04-06 12:04:09 overwrite stylesheets/partials/homepage.css 
+2013-04-06 12:05:54 overwrite stylesheets/style.css 
+2013-04-06 12:05:54 overwrite stylesheets/partials/homepage.css 
+2013-04-06 12:06:31 overwrite stylesheets/style.css 
+2013-04-06 12:06:31 overwrite stylesheets/partials/homepage.css 
+2013-04-06 12:07:18 overwrite stylesheets/style.css 
+2013-04-06 12:07:18 overwrite stylesheets/partials/homepage.css 
+2013-04-06 12:09:40 overwrite stylesheets/style.css 
+2013-04-06 12:09:58 overwrite stylesheets/style.css 
+2013-04-06 12:09:58 overwrite stylesheets/partials/homepage.css 
+2013-04-06 13:20:01 overwrite stylesheets/style.css 
+2013-04-06 13:20:37 overwrite stylesheets/style.css 
+2013-04-06 13:21:03 overwrite stylesheets/style.css 
+2013-04-06 13:21:10 overwrite stylesheets/style.css 
+2013-04-06 13:21:48 overwrite stylesheets/style.css 
+2013-04-06 13:22:25 overwrite stylesheets/style.css 
+2013-04-06 13:26:24 overwrite stylesheets/style.css 
+2013-04-06 13:29:31 overwrite stylesheets/style.css 
+2013-04-06 13:30:00 overwrite stylesheets/style.css 
+2013-04-06 13:36:31 overwrite stylesheets/style.css 
+2013-04-06 13:36:44 overwrite stylesheets/style.css 
+2013-04-06 13:36:56 overwrite stylesheets/style.css 
+2013-04-06 13:38:00 overwrite stylesheets/style.css 
+2013-04-06 13:38:28 overwrite stylesheets/style.css 
+2013-04-06 13:38:44 overwrite stylesheets/style.css 
+2013-04-06 13:39:56 overwrite stylesheets/style.css 
+2013-04-06 13:40:17 overwrite stylesheets/style.css 
+2013-04-06 13:40:38 overwrite stylesheets/style.css 
+2013-04-06 13:40:50 overwrite stylesheets/style.css 
+2013-04-06 13:41:23 overwrite stylesheets/style.css 
+2013-04-06 13:41:37 overwrite stylesheets/style.css 
+2013-04-06 13:42:11 overwrite stylesheets/style.css 
+2013-04-06 13:42:20 overwrite stylesheets/style.css 
+2013-04-06 13:45:08 overwrite stylesheets/style.css 
+2013-04-06 13:45:29 overwrite stylesheets/style.css 
+2013-04-06 13:45:44 overwrite stylesheets/style.css 
+2013-04-06 13:46:08     error sass/style.scss (Line 66 of sass/partials/_page.scss: Invalid CSS: a space is required between a property and its definition
+when it has other properties nested beneath it.
+)
+2013-04-06 13:46:08 overwrite stylesheets/style.css 
+2013-04-06 13:46:13 overwrite stylesheets/style.css 
+2013-04-06 13:46:55 overwrite stylesheets/style.css 
+2013-04-06 13:47:07 overwrite stylesheets/style.css 
+2013-04-06 13:48:01 overwrite stylesheets/style.css 
+2013-04-06 13:50:19 overwrite stylesheets/style.css 
+2013-04-06 13:50:38 overwrite stylesheets/style.css 
+2013-04-06 13:50:53 overwrite stylesheets/style.css 
+2013-04-06 13:52:20 overwrite stylesheets/style.css 
+2013-04-06 13:53:40 overwrite stylesheets/style.css 
+2013-04-06 13:55:07 overwrite stylesheets/style.css 
+2013-04-06 14:00:55 overwrite stylesheets/style.css 
+2013-04-08 21:40:42 overwrite stylesheets/style.css 
+2013-04-08 21:42:07 overwrite stylesheets/style.css 
+2013-04-08 21:42:20 overwrite stylesheets/style.css 
+2013-04-08 21:45:23 overwrite stylesheets/style.css 
+2013-04-08 21:45:23 overwrite stylesheets/partials/homepage.css 
+2013-04-08 21:46:25 overwrite stylesheets/style.css 
+2013-04-08 21:46:25 overwrite stylesheets/partials/homepage.css 
+2013-04-08 21:46:31 identical stylesheets/style.css 
+2013-04-08 21:46:31 identical stylesheets/partials/homepage.css 
+2013-04-08 21:50:58 overwrite stylesheets/style.css 
+2013-04-08 21:50:58 overwrite stylesheets/partials/homepage.css 
+2013-04-08 21:53:46 overwrite stylesheets/style.css 
+2013-04-08 21:53:46 overwrite stylesheets/partials/homepage.css 
+2013-04-08 21:55:16 overwrite stylesheets/style.css 
+2013-04-08 21:55:16 overwrite stylesheets/partials/homepage.css 
+2013-04-08 21:55:45 identical stylesheets/style.css 
+2013-04-08 21:55:45 identical stylesheets/partials/homepage.css 
+2013-04-08 21:59:41 identical stylesheets/style.css 
+2013-04-08 21:59:41 identical stylesheets/partials/homepage.css 
+2013-04-08 21:59:59 overwrite stylesheets/style.css 
+2013-04-08 22:00:44 overwrite stylesheets/style.css 
+2013-04-08 22:00:57 overwrite stylesheets/style.css 
+2013-04-08 22:00:57 overwrite stylesheets/partials/homepage.css 
+2013-04-08 22:02:19 overwrite stylesheets/style.css 
+2013-04-08 22:02:19 overwrite stylesheets/partials/homepage.css 
+2013-04-08 22:03:05 overwrite stylesheets/style.css 
+2013-04-08 22:03:05 overwrite stylesheets/partials/homepage.css 
+2013-04-08 22:03:44 overwrite stylesheets/style.css 
+2013-04-08 22:03:44 overwrite stylesheets/partials/homepage.css 
+2013-04-08 22:05:02 overwrite stylesheets/style.css 
+2013-04-08 22:05:02 overwrite stylesheets/partials/homepage.css 
+2013-04-08 22:05:24 overwrite stylesheets/style.css 
+2013-04-08 22:05:24 overwrite stylesheets/partials/homepage.css 
+2013-04-08 22:05:51 overwrite stylesheets/style.css 
+2013-04-08 22:05:51 overwrite stylesheets/partials/homepage.css 
+2013-04-08 22:06:21 overwrite stylesheets/style.css 
+2013-04-08 22:06:21 overwrite stylesheets/partials/homepage.css 
+2013-04-08 22:07:57 overwrite stylesheets/style.css 
+2013-04-08 22:07:57 overwrite stylesheets/partials/homepage.css 
+2013-04-08 22:08:16     error sass/style.scss (Line 29 of sass/partials/homepage.scss: Invalid CSS after "  line-height": expected ";", was ":16px;")
+2013-04-08 22:08:16 overwrite stylesheets/style.css 
+2013-04-08 22:08:17     error sass/partials/homepage.scss (Line 29: Invalid CSS after "  line-height": expected ";", was ":16px;")
+2013-04-08 22:08:17 overwrite stylesheets/partials/homepage.css 
+2013-04-08 22:08:24 overwrite stylesheets/style.css 
+2013-04-08 22:08:24 overwrite stylesheets/partials/homepage.css 
+2013-04-08 22:09:40 overwrite stylesheets/style.css 
+2013-04-08 22:09:40 overwrite stylesheets/partials/homepage.css 
+2013-04-08 22:10:07 overwrite stylesheets/style.css 
+2013-04-08 22:10:07 overwrite stylesheets/partials/homepage.css 
+2013-04-08 22:11:13 overwrite stylesheets/style.css 
+2013-04-08 22:11:13 overwrite stylesheets/partials/homepage.css 
+2013-04-08 22:13:48 overwrite stylesheets/style.css 
+2013-04-08 22:13:48 overwrite stylesheets/partials/homepage.css 
+2013-04-15 20:07:17 overwrite stylesheets/style.css 
+2013-04-15 20:10:37 overwrite stylesheets/style.css 
+2013-04-15 20:10:59 overwrite stylesheets/style.css 
+2013-04-15 20:20:47 identical stylesheets/style.css 
+2013-04-15 20:20:57 identical stylesheets/style.css 
+2013-04-15 20:21:26 overwrite stylesheets/style.css 
+2013-04-15 20:23:23 overwrite stylesheets/style.css 
+2013-04-15 20:24:06 overwrite stylesheets/style.css 
+2013-04-15 20:24:17 overwrite stylesheets/style.css 
+2013-04-15 20:25:43 overwrite stylesheets/style.css 
+2013-04-15 20:26:54 overwrite stylesheets/style.css 
+2013-04-15 20:27:06 overwrite stylesheets/style.css 
+2013-04-15 20:28:03 overwrite stylesheets/style.css 
+2013-04-15 20:28:23 overwrite stylesheets/style.css 
+2013-04-15 20:30:51     error sass/style.scss (Line 301 of sass/partials/_page.scss: Invalid CSS after "			li.nth-child": expected "{", was "(2,3,4){")
+2013-04-15 20:30:52 overwrite stylesheets/style.css 
+2013-04-15 20:31:09     error sass/style.scss (Line 301 of sass/partials/_page.scss: Invalid CSS after "			li.nth-child": expected "{", was "(2-4){")
+2013-04-15 20:31:09 overwrite stylesheets/style.css 
+2013-04-15 20:31:46 overwrite stylesheets/style.css 
+2013-04-15 20:33:04 overwrite stylesheets/style.css 
+2013-04-15 20:34:58 overwrite stylesheets/style.css 
+2013-04-15 20:35:22 overwrite stylesheets/style.css 
+2013-04-15 20:36:03 overwrite stylesheets/style.css 
+2013-05-06 18:09:45 overwrite stylesheets/style.css 
+2013-05-06 18:13:58 overwrite stylesheets/style.css 
+2013-10-06 11:08:05 overwrite stylesheets/style.css 
+2013-10-06 11:10:50 overwrite stylesheets/style.css 
+2013-10-06 11:11:35 overwrite stylesheets/style.css 
+2013-10-06 11:12:11 overwrite stylesheets/style.css 
+2013-10-06 11:12:30 overwrite stylesheets/style.css 
+2013-10-06 11:13:22 overwrite stylesheets/style.css 
+2013-10-06 11:13:38 overwrite stylesheets/style.css 
+2013-10-06 11:14:53 overwrite stylesheets/style.css 
+2013-10-06 11:15:55 overwrite stylesheets/style.css 
+2013-10-06 11:16:22 overwrite stylesheets/style.css 
+2013-10-06 11:17:18 overwrite stylesheets/style.css 
+2013-10-06 11:18:04 overwrite stylesheets/style.css 
+2013-10-06 11:18:11 overwrite stylesheets/style.css 
+2013-10-06 11:18:47 overwrite stylesheets/style.css 
+2013-10-06 11:23:13 overwrite stylesheets/style.css 
+2013-10-06 11:23:41 overwrite stylesheets/style.css 
+2013-10-06 11:44:05 overwrite stylesheets/style.css 
+2013-10-06 11:50:38 overwrite stylesheets/style.css 
+2013-10-06 13:54:12 overwrite stylesheets/style.css 
+2013-10-06 13:54:51 overwrite stylesheets/style.css 
+2013-10-06 13:56:00 overwrite stylesheets/style.css 
+2013-10-06 13:57:18 overwrite stylesheets/style.css 
+2013-10-06 13:57:31 identical stylesheets/style.css 
+2013-10-06 13:57:40 overwrite stylesheets/style.css 
+2013-10-06 14:03:35 overwrite stylesheets/style.css 

@@ -1,0 +1,100 @@
+/*
+Theme Name: Atahualpa eCommerce
+Theme URI: http://thecartpress.com/
+Description: Extend the functionality of the Atahualpa theme with E-Commerce. A basic CHILD theme to use with TheCartPress E-commerce Cart plugin. Able to work with custom post types and taxonomies. New configurable template loops: Grid and List. Templates for e-commerce taxonomies: categories, tags, suppliers. Template for single products. Use the useful widgets of TheCartPress Ecommerce Cart plugin to create your e-commerce: Shopping cart, Product lists, navigation store menus: product categories, product tags, suppliers, related items. Ecommerces, stores and shops.
+Author: TheCartPress Team
+Author URI: http://thecartpress.com/
+Version: 1.0
+Template Version: 1.0.4
+License: GNU General Public License
+License URI: license.txt
+Tags: thecartpress, cartpress, e-commerce, cart, store, shopping cart, shop, shopping, commerce, ecommerce, custom post types, taxonomies, taxonomy, Atahualpa
+Template: atahualpa
+*/
+
+
+
+@import url("../atahualpa/style.css");
+@import url("tcp-buy-options.css");
+
+
+#left table.tcp_products_list tr td,
+#right table.tcp_products_list tr td {
+	border: 0 solid #ccc;
+	padding: 0;
+    padding: 2px;
+}
+
+
+.single-tcp_product .post-footer {
+	display:none;
+}
+div.post, div.page {
+}
+.tcp_buy_button_price {
+	white-space: normal !important;
+}
+table.tcp_products_list, #content table.tcp_products_list {
+    border-collapse: collapse;
+}
+#left table.tcp_products_list, #left #content table.tcp_products_list,
+#right table.tcp_products_list, #right #content table.tcp_products_list {
+    border-collapse: separate;
+}
+table.tcp_products_list tr td, #content table.tcp_products_list tr td {
+	vertical-align:top;
+}
+#right table.tcp_products_list .entry-post-thumbnail img,
+#left table.tcp_products_list .entry-post-thumbnail img {
+	width:100%;
+	height:auto;
+}
+#menu1  {
+	margin: 3px 0;
+}
+table.tcp_products_list .entry-price {
+	color:#C00;
+	margin-bottom:.325em;
+}
+div.tcp_shortcode  table tr td,
+div.tcp_shortcode  table tr.over td,
+div.tcp-products table tr td,
+div.tcp-products table tr.over td {
+    background: none repeat scroll 0 0 transparent;
+}
+div.tcp_shortcode table tr.over td:hover,
+div.tcp-products table tr.over td:hover {
+    background: none repeat scroll 0 0 #ededed;
+}
+div.tcp_shortcode table tr.alt td,
+div.tcp-products table tr.alt td {
+    background: none repeat scroll 0 0 transparent;
+}
+div.tcp_shortcode table tr.alt td:hover
+div.tcp-products table tr.alt td:hover {
+    background: none repeat scroll 0 0 #ededed;
+}
+#tcp_back, #tcp_continue {
+	height: auto;
+}
+
+
+/* Fix floats container "Clearfix" */
+
+/* For modern browsers */
+.cf:before,
+.cf:after {
+    content:"";
+    display:table;
+}
+
+.cf:after {
+    clear:both;
+}
+
+/* For IE 6/7 (trigger hasLayout) */
+.cf {
+    zoom:1;
+}
+
+	

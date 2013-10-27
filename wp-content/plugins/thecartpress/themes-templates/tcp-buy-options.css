@@ -1,0 +1,99 @@
+.tcp_buy_button_area {
+	padding:10px 0 20px;
+}
+.tcp_buy_button .tcp-buy-options,
+.tcp_buy_button .tcp_unit_price,
+.tcp_buy_button .tcp-buy-dynamic-options,
+.tcp_buy_button .tcp-add-to-cart,
+.tcp_buy_button .tcp-add-to-cart-items,
+.tcp_buy_button .tcp-add-to-cart-items {
+	margin-top:4px;
+}
+.tcp_buy_button .tcp-buy-dynamic-options .tcp_dynamic_option_panel {
+	margin-top:4px;
+}
+
+.tcp_buy_button {
+	width:auto;
+	line-height:18px;
+	font-size:12px;
+	font-family:Arial, Helvetica, sans-serif;
+}
+.tcp_buy_button select{
+	font-size:12px;
+}
+
+.tcp_buy_button .tcp_unit_price {
+	font-weight:bold;
+	font-size:12px;
+}
+.tcp_dynamic_option_panel label{
+	margin-right:20px;
+}
+
+.tcp_dynamic_option_panel {
+/*	display:inline;
+*/
+}
+
+
+
+
+
+/* Add buttons
+-------------------------------------*/
+.tcp_add_to_shopping_cart,
+.tcp_add_selected_to_shopping_cart,
+input[type="submit"].tcp_add_to_shopping_cart,
+input[type="submit"].tcp_add_selected_to_shopping_cart {
+	display: inline-block;
+	outline: none;
+	cursor: pointer;
+	text-align: center;
+	text-decoration: none;
+	font-size:14px;
+	font-family:Arial, Helvetica, sans-serif;
+	padding: 4px 10px 20px 10px;
+	text-shadow: 0 1px 1px rgba(0,0,0,.3);
+	-webkit-border-radius: 4px; 
+	-moz-border-radius: 4px;
+	border-radius: 4px;
+	-webkit-box-shadow: 0 1px 2px rgba(0,0,0,.2);
+	-moz-box-shadow: 0 1px 2px rgba(0,0,0,.2);
+	box-shadow: 0 1px 2px rgba(0,0,0,.2);
+	
+	font-weight:normal !important;
+	
+	color: #fef4e9;
+	border: solid 1px #da7c0c;
+	background: #f78d1d;
+	background: -webkit-gradient(linear, left top, left bottom, from(#faa51a), to(#f47a20));
+	background: -moz-linear-gradient(top,  #faa51a,  #f47a20);
+	filter:  progid:DXImageTransform.Microsoft.gradient(startColorstr='#faa51a', endColorstr='#f47a20');
+	
+}
+.tcp_add_to_shopping_cart:hover,
+.tcp_add_selected_to_shopping_cart:hover,
+input[type="submit"].tcp_add_to_shopping_cart:hover,
+input[type="submit"].tcp_add_selected_to_shopping_cart:hover {
+	text-decoration: none;
+
+	background: #f47c20;
+	background: -webkit-gradient(linear, left top, left bottom, from(#f88e11), to(#f06015));
+	background: -moz-linear-gradient(top,  #f88e11,  #f06015);
+	filter:  progid:DXImageTransform.Microsoft.gradient(startColorstr='#f88e11', endColorstr='#f06015');
+}
+.tcp_add_to_shopping_cart:active,
+.tcp_add_selected_to_shopping_cart:active,
+input[type="submit"].tcp_add_to_shopping_cart:active,
+input[type="submit"].tcp_add_selected_to_shopping_cart:active {
+	position: relative;
+	top: 1px;
+
+	color: #fcd3a5;
+	background: -webkit-gradient(linear, left top, left bottom, from(#f47a20), to(#faa51a));
+	background: -moz-linear-gradient(top,  #f47a20,  #faa51a);
+	filter:  progid:DXImageTransform.Microsoft.gradient(startColorstr='#f47a20', endColorstr='#faa51a');
+}
+
+
