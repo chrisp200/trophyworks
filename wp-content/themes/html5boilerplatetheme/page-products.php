@@ -26,20 +26,20 @@
 
 			<div class='online-products'>
 				<h2>Online Products</h2>
-				<ul>
-					<li>
+				<ul class=" row-fluid">
+					<!-- <li>
 						<a href="/baseball">
 							<div class="sport-icon"><img src="/wp-content/uploads/2013/09/t27_t-f-1446-g.png"/></div>
 							<h3>Baseball</h3>
 						</a>
-					</li>
-					<li>
+					</li> -->
+					<li class="well span3">
 						<a href="/basketball">
 							<div class="sport-icon"><img src="/wp-content/uploads/2013/09/t29_t_m-591-g.png"/></div>
 							<h3>Basketball</h3>
 						</a>
 					</li>
-					<li>
+					<li class="well  span3">
 						<a href="/cheerleading">
 							<div class="sport-icon"><img src="/wp-content/uploads/2013/09/t30_t-f-506-g.png"/></div>
 							<h3>Cheerleading</h3>
@@ -49,13 +49,13 @@
 						<div class="sport-icon"><img src="/wp-content/uploads/2013/09/t30_t-f-506-g.png"/></div>
 						<h3><a href="/hockey">Hockey</a></h3>
 					</li> -->
-					<li>
+					<li class="well span3">
 						<a href="/football">
 							<div class="sport-icon"><img src="/wp-content/uploads/2013/09/t18_t-79-g.png"/></div>
 							<h3>Football</h3>
 						</a>
 					</li>
-					<li>
+					<li class="well span3">
 						<a href="/soccer">
 							<div class="sport-icon"><img src="/wp-content/uploads/2013/09/t23_t-m-5017-g.png"/></div>
 							<h3>Soccer</h3>
