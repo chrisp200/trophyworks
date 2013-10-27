@@ -72,13 +72,20 @@
 		</div>
         <div style="clear:both;"></div>
         
-        <?php /*?><div id="nav">
-                <ul>
-                    <li><a href="index.php">Home</a></li>
-                    <li><a href="services.php">Services</a></li>
-                    <li><a href="designs.php">Custom Designs</a></li>
-                    <li><a href="contact.php">Contact</a></li>
-                </ul>
-                <div style="clear:both;"></div>
-            </div><?php */?>
+        <div id="nav">
+            <ul>
+                
+            </ul>
+            <div style="clear:both;"></div>
+        </div>
+        <div class="navbar">
+			<div class="navbar-inner">
+		    	<ul class="nav">
+		      		<li><a href="/index.php">Home</a></li>
+              		<li><a href="/services">Services</a></li>
+              		<li><a href="/clients">Clients</a></li>
+              		<li><a href="/contact">Contact</a></li>
+		    	</ul>
+		  	</div>
+		</div>
         
