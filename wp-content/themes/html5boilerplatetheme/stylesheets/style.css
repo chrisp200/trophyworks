@@ -489,7 +489,6 @@ hr {
 }
 /* line 177, ../sass/partials/_page.scss */
 #page-wrap .product .content .information, #page-wrap .tcp_product .content .information {
-  margin-left: 5%;
   padding-left: 5%;
   width: 35%;
   float: left;
