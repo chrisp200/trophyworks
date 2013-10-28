@@ -57,6 +57,7 @@
 
 		<div id="header" class="clearfix container">
         	<div id="logo">
+        		<img src='<?php echo get_bloginfo('template_directory'); ?>/images/tw-logo.jpg'>
         		<h1>Trophy Works</h1>
         	</div>
             <!-- <div id="social"></div> -->
