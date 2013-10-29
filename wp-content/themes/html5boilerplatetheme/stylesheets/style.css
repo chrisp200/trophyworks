@@ -390,41 +390,44 @@ hr {
   display: inline-block;
 }
 /* line 83, ../sass/partials/_page.scss */
-#page-wrap #header #logo h1 {
-  font-family: 'Arvo', serif;
-  font-weight: bold;
-  font-size: 65px;
-  line-height: 65px;
-  margin-top: 8px;
-  text-shadow: 3px 3px 0px #FFF;
-  filter: dropshadow(color=white, offx=3, offy=3);
+#page-wrap #header #logo img {
+  height: 100px;
+  width: auto;
 }
-/* line 93, ../sass/partials/_page.scss */
+/* line 89, ../sass/partials/_page.scss */
 #page-wrap #header #moto {
   float: left;
   display: inline-block;
   margin-left: 20px;
-  border-left: solid 4px #000;
   padding-left: 20px;
 }
-/* line 99, ../sass/partials/_page.scss */
+/* line 95, ../sass/partials/_page.scss */
+#page-wrap #header #moto h1 {
+  font-family: 'Arvo', serif;
+  font-weight: bold;
+  font-size: 63px;
+  margin-top: 8px;
+  text-shadow: 3px 3px 0px #FFF;
+  filter: dropshadow(color=white, offx=3, offy=3);
+}
+/* line 103, ../sass/partials/_page.scss */
 #page-wrap #header #moto h2 {
+  display: inline-block;
   margin-top: 8px;
   font-family: 'Tauri', sans-serif;
   font-size: 28px;
-  line-height: 28px;
 }
-/* line 106, ../sass/partials/_page.scss */
+/* line 110, ../sass/partials/_page.scss */
 #page-wrap #header #main-nav {
   margin-top: 20px;
   margin-bottom: 20px;
 }
-/* line 109, ../sass/partials/_page.scss */
+/* line 113, ../sass/partials/_page.scss */
 #page-wrap #header #main-nav ul {
   margin: 0px;
   padding: 0px;
 }
-/* line 112, ../sass/partials/_page.scss */
+/* line 116, ../sass/partials/_page.scss */
 #page-wrap #header #main-nav ul li {
   float: left;
   display: inline-block;
@@ -432,24 +435,24 @@ hr {
   margin-right: 10px;
   padding-left: 10px;
 }
-/* line 118, ../sass/partials/_page.scss */
+/* line 122, ../sass/partials/_page.scss */
 #page-wrap #header #main-nav ul li a {
   text-decoration: none;
   font-family: 'Tauri', sans-serif;
   font-size: 22px;
   color: #000;
 }
-/* line 125, ../sass/partials/_page.scss */
+/* line 129, ../sass/partials/_page.scss */
 #page-wrap #header #main-nav ul li:first-child {
   border: 0;
 }
-/* line 132, ../sass/partials/_page.scss */
+/* line 136, ../sass/partials/_page.scss */
 #page-wrap .content {
   width: 70%;
   float: left;
   display: inline-block;
 }
-/* line 138, ../sass/partials/_page.scss */
+/* line 142, ../sass/partials/_page.scss */
 #page-wrap .sidebar {
   margin-left: 2%;
   width: 25%;
@@ -458,55 +461,56 @@ hr {
   display: inline-block;
   border-left: solid 1px #CCC;
 }
-/* line 153, ../sass/partials/_page.scss */
+/* line 157, ../sass/partials/_page.scss */
 #page-wrap .product .header, #page-wrap .tcp_product .header {
   margin-top: 20px;
   margin-left: 20px;
   font-family: Helvetica;
   font-size: 24px;
 }
-/* line 159, ../sass/partials/_page.scss */
+/* line 163, ../sass/partials/_page.scss */
 #page-wrap .product .header a, #page-wrap .tcp_product .header a {
   text-decoration: none;
   color: #000;
 }
-/* line 164, ../sass/partials/_page.scss */
+/* line 168, ../sass/partials/_page.scss */
 #page-wrap .product .content, #page-wrap .tcp_product .content {
   width: 100%;
 }
-/* line 166, ../sass/partials/_page.scss */
+/* line 170, ../sass/partials/_page.scss */
 #page-wrap .product .content .image, #page-wrap .tcp_product .content .image {
   width: 50%;
   float: left;
   text-align: center;
 }
-/* line 170, ../sass/partials/_page.scss */
+/* line 174, ../sass/partials/_page.scss */
 #page-wrap .product .content .image img, #page-wrap .tcp_product .content .image img {
   width: auto;
   max-width: 100%;
   height: auto;
   max-height: 400px;
 }
-/* line 177, ../sass/partials/_page.scss */
+/* line 181, ../sass/partials/_page.scss */
 #page-wrap .product .content .information, #page-wrap .tcp_product .content .information {
+  margin-left: 5%;
   padding-left: 5%;
   width: 35%;
   float: left;
   border-left: solid 1px #CCC;
 }
-/* line 184, ../sass/partials/_page.scss */
+/* line 188, ../sass/partials/_page.scss */
 #page-wrap .product .content .information .header h1, #page-wrap .tcp_product .content .information .header h1 {
   font-size: 26px;
 }
-/* line 186, ../sass/partials/_page.scss */
+/* line 190, ../sass/partials/_page.scss */
 #page-wrap .product .content .information .header h1 a, #page-wrap .tcp_product .content .information .header h1 a {
   color: 333333;
 }
-/* line 196, ../sass/partials/_page.scss */
+/* line 200, ../sass/partials/_page.scss */
 #page-wrap .product .content .information .buy-area .tcp_dynamic_option_panel, #page-wrap .tcp_product .content .information .buy-area .tcp_dynamic_option_panel {
   display: block;
 }
-/* line 200, ../sass/partials/_page.scss */
+/* line 204, ../sass/partials/_page.scss */
 #page-wrap .product .content .information .btn, #page-wrap .tcp_product .content .information .btn {
   text-decoration: none;
   padding: 4px 10px;
@@ -525,21 +529,21 @@ hr {
   background: -webkit-gradient(linear, left top, left bottom, from(#faa51a), to(#f47a20));
   background: -moz-linear-gradient(top, #faa51a, #f47a20);
 }
-/* line 224, ../sass/partials/_page.scss */
+/* line 228, ../sass/partials/_page.scss */
 #page-wrap .content .page-body {
   margin-top: 20px;
   margin-left: 20px;
 }
-/* line 228, ../sass/partials/_page.scss */
+/* line 232, ../sass/partials/_page.scss */
 #page-wrap .content .store-front {
   display: block;
   width: 100%;
 }
-/* line 234, ../sass/partials/_page.scss */
+/* line 238, ../sass/partials/_page.scss */
 #page-wrap .content .store-front .product {
   border-bottom: solid 1px #CCC;
 }
-/* line 237, ../sass/partials/_page.scss */
+/* line 241, ../sass/partials/_page.scss */
 #page-wrap .content .store-front .product {
   margin: 20px 0 20px 0;
   width: 100%;
@@ -547,78 +551,78 @@ hr {
   float: left;
   display: inline-block;
 }
-/* line 244, ../sass/partials/_page.scss */
+/* line 248, ../sass/partials/_page.scss */
 #page-wrap .content .store-front .product .information {
   border: none;
 }
-/* line 246, ../sass/partials/_page.scss */
+/* line 250, ../sass/partials/_page.scss */
 #page-wrap .content .store-front .product .information .header {
   margin: 5px;
   font-family: Helvetica;
   font-size: 20px;
 }
-/* line 250, ../sass/partials/_page.scss */
+/* line 254, ../sass/partials/_page.scss */
 #page-wrap .content .store-front .product .information .header a {
   text-decoration: none;
 }
-/* line 258, ../sass/partials/_page.scss */
+/* line 262, ../sass/partials/_page.scss */
 #page-wrap .content .store-front .product .content .image img {
   max-height: 200px;
   width: auto;
 }
 
-/* line 295, ../sass/partials/_page.scss */
+/* line 299, ../sass/partials/_page.scss */
 #header #main-nav .menu ul li {
   float: left;
   padding: 5px 10px 5px 10px;
 }
 
-/* line 306, ../sass/partials/_page.scss */
+/* line 310, ../sass/partials/_page.scss */
 .goto-top {
   float: right;
   cursor: pointer;
 }
 
-/* line 310, ../sass/partials/_page.scss */
+/* line 314, ../sass/partials/_page.scss */
 #footer {
   text-align: center;
   margin: 20px 0 20px 0;
 }
-/* line 313, ../sass/partials/_page.scss */
+/* line 317, ../sass/partials/_page.scss */
 #footer ul {
   list-style: none;
   padding: 0;
   margin: 0;
 }
-/* line 317, ../sass/partials/_page.scss */
+/* line 321, ../sass/partials/_page.scss */
 #footer ul li {
   float: left;
   display: inline-block;
   padding: 5px;
 }
-/* line 321, ../sass/partials/_page.scss */
+/* line 325, ../sass/partials/_page.scss */
 #footer ul li a {
   text-decoration: none;
   color: #000;
 }
 
-/* line 334, ../sass/partials/_page.scss */
+/* line 338, ../sass/partials/_page.scss */
 .sidebar #shoppingcart-widget-2 .tcp_shopping_cart {
   list-style: none;
   padding: 0;
   margin: 0;
 }
-/* line 339, ../sass/partials/_page.scss */
+/* line 343, ../sass/partials/_page.scss */
 .sidebar #shoppingcart-widget-2 .tcp_shopping_cart_widget {
   list-style: none;
   padding: 0;
   margin: 0;
 }
-/* line 343, ../sass/partials/_page.scss */
+/* line 347, ../sass/partials/_page.scss */
 .sidebar #shoppingcart-widget-2 .tcp_shopping_cart_widget .tcp_cart_widget_thumbnail {
   display: none;
 }
-/* line 346, ../sass/partials/_page.scss */
+/* line 350, ../sass/partials/_page.scss */
 .sidebar #shoppingcart-widget-2 .tcp_shopping_cart_widget li:nth-child(2), .sidebar #shoppingcart-widget-2 .tcp_shopping_cart_widget li:nth-child(3), .sidebar #shoppingcart-widget-2 .tcp_shopping_cart_widget li:nth-child(4) {
   display: none;
 }

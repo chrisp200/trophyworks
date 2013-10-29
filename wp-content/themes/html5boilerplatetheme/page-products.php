@@ -25,7 +25,6 @@
 			</div>
 
 			<div class='online-products'>
-				<h2>Online Products</h2>
 				<ul class=" row-fluid">
 					<!-- <li>
 						<a href="/baseball">

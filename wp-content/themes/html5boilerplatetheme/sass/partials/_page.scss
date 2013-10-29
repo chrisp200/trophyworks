@@ -80,27 +80,31 @@ hr{
 		#logo{
 			float:left;
 			display:inline-block;
-			h1{
-				font-family: 'Arvo', serif;
-				font-weight:bold;
-				font-size:65px;
-				line-height:65px;
-				margin-top:8px;
-				text-shadow: 3px 3px 0px #FFF;
-        		filter: dropshadow(color=#FFF, offx=3, offy=3);
+			img{
+				height:100px;
+				width:auto;
 			}
+			
 		}
 		#moto{
 			float:left;
 			display:inline-block;
 			margin-left:20px;
-			border-left:solid 4px #000;
+			
 			padding-left:20px;
+			h1{
+				font-family: 'Arvo', serif;
+				font-weight:bold;
+				font-size:63px;
+				margin-top:8px;
+				text-shadow: 3px 3px 0px #FFF;
+        		filter: dropshadow(color=#FFF, offx=3, offy=3);
+			}
 			h2{
+				display:inline-block;
 				margin-top:8px;
 				font-family: 'Tauri', sans-serif;
 				font-size:28px;
-				line-height:28px;
 			}
 		}
 		#main-nav{

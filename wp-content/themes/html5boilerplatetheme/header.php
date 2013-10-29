@@ -57,13 +57,13 @@
 
 		<div id="header" class="clearfix container">
         	<div id="logo">
-        		<img src='<?php echo get_bloginfo('template_directory'); ?>/images/tw-logo.jpg'>
-        		<h1>Trophy Works</h1>
+        		<div><img src='<?php echo get_bloginfo('template_directory'); ?>/images/tw-logo.jpg'></div>
         	</div>
             <!-- <div id="social"></div> -->
             <!-- <div id="image"><img src="images/trophy_pic.png" width="379" height="343" /></div> -->
             <div id="moto">
-                <h2>Putting More POP <br/>in your awards<br/> since 1977</h2>
+            	<h1>Trophy Works</h1>
+                <h2>Putting More POP in your awards since 1977</h2>
             </div>
 			<?php /*?><h1><a href="<?php echo get_option('home'); ?>/"><?php bloginfo('name'); ?></a></h1>
 			<div class="description"><?php bloginfo('description'); ?></div><?php */?>
@@ -84,6 +84,7 @@
 		    	<ul class="nav">
 		      		<li><a href="/index.php">Home</a></li>
               		<li><a href="/services">Services</a></li>
+              		<li><a href="/online-store">Online Store</a></li>
               		<li><a href="/clients">Clients</a></li>
               		<li><a href="/contact">Contact</a></li>
 		    	</ul>
